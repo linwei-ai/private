@@ -1,0 +1,187 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "breadcrumbs_xYaBHj": {
+      "type": "breadcrumbs",
+      "settings": {
+        "container": "fixed",
+        "text_alignment": "start",
+        "padding_top": 16,
+        "padding_bottom": 20
+      }
+    },
+    "rich_text_VWahrF": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_Y9U3nV": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>Conversemos</strong>",
+            "highlight_style": "none",
+            "highlight_font_style": "italic",
+            "highlight_style_color": "",
+            "highlight_text_color": "",
+            "heading_size": "h2"
+          }
+        },
+        "text_AEMb7a": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Queremos asegurarnos de que estés satisfecho con nuestro servicio, resolver todas tus dudas y escuchar tus sugerencias. Por eso, puedes escribirnos a nuestra línea de WhatsApp <a href=\"https://www.surticosmeticos.com/https://api.whatsapp.com/send?phone=573007098646\">+57 3007098646 Dando clic Aquí</a>. También puedes enviarnos un correo a <a href=\"mailto:info@surticosmeticos.com\">info@surticosmeticos.com</a> o dejarnos tus comentarios en el siguiente formulario. ¡Pronto estaremos en contacto contigo!</p>",
+            "text_size": "text-base",
+            "text_line_limit": "none",
+            "button_style": "btn--underline",
+            "button_icon": "none"
+          }
+        }
+      },
+      "block_order": [
+        "heading_Y9U3nV",
+        "text_AEMb7a"
+      ],
+      "name": "t:sections.rich-text.name",
+      "settings": {
+        "container": "fixed",
+        "color_scheme": "",
+        "use_color_scheme_in_container": false,
+        "content_spacing": "standard",
+        "content_alignment": "center",
+        "padding_top": 50,
+        "padding_bottom": 50,
+        "show_section_divider": false,
+        "divider_width": "fixed"
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "custom_css": [
+        ".rich-text {max-width: 67rem;}"
+      ],
+      "settings": {
+        "container": "fixed",
+        "text_alignment": "left",
+        "padding_top": 0,
+        "padding_bottom": 40
+      }
+    },
+    "form": {
+      "type": "contact-form",
+      "blocks": {
+        "sidebar_6PaerX": {
+          "type": "sidebar",
+          "disabled": true,
+          "settings": {
+            "position": "right",
+            "heading": "Need Help?",
+            "heading_size": "h2",
+            "text": "<p>To us, design has a broader purpose and as you can read about on this website, we are on a mission. </p>",
+            "text_size": "text-base",
+            "icon_1": "map-pin",
+            "icon_width_1": 32,
+            "icon_color_1": "#64b7a6",
+            "icon_heading_1": "General Office",
+            "icon_heading_size_1": "h5",
+            "icon_text_1": "<p>382 NE 191st St # 87394 Miami</p>",
+            "icon_vertical_alignment_1": "start",
+            "icon_2": "phone",
+            "icon_width_2": 28,
+            "icon_color_2": "#64b7a6",
+            "icon_heading_2": "Call Us",
+            "icon_heading_size_2": "h5",
+            "icon_text_2": "<p>+1 888-234-1234 (tool-free)</p>",
+            "icon_vertical_alignment_2": "start",
+            "icon_3": "clock",
+            "icon_width_3": 28,
+            "icon_color_3": "#64b7a6",
+            "icon_heading_3": "Working Hour",
+            "icon_heading_size_3": "h5",
+            "icon_text_3": "<p>Mon – Fri, 7:30 AM – 4:00 PM PT<br/>Sat, 8:00 AM – 1:00 PM PT<br/>Sun, Closed</p>",
+            "icon_vertical_alignment_3": "start",
+            "button_label": "Find A Store",
+            "button_link": "",
+            "button_style": "btn--primary",
+            "button_icon": "none"
+          }
+        },
+        "custom_field_8AQYaC": {
+          "type": "custom_field",
+          "settings": {
+            "field_type": "phone",
+            "heading": "Teléfono de contacto",
+            "placeholder": "Teléfono",
+            "required": true,
+            "full_width": false,
+            "select_options": "",
+            "checkbox_checked_value": "Yes",
+            "checkbox_uncheck_value": "No",
+            "radio_options": ""
+          }
+        },
+        "custom_field_8mNKKQ": {
+          "type": "custom_field",
+          "settings": {
+            "field_type": "select",
+            "heading": "Se contacta como:",
+            "placeholder": "Seleccione",
+            "required": false,
+            "full_width": false,
+            "select_options": "Cliente, Proveedor, Otro",
+            "checkbox_checked_value": "Yes",
+            "checkbox_uncheck_value": "No",
+            "radio_options": ""
+          }
+        },
+        "custom_field_d63Kne": {
+          "type": "custom_field",
+          "settings": {
+            "field_type": "select",
+            "heading": "Asunto",
+            "placeholder": "Seleccione",
+            "required": false,
+            "full_width": true,
+            "select_options": "Problemas con mi compra, Cambio y devolución, Petición Queja Reclamo o Felicitación, Quiero hacer una alianza, Quiero trabajar en Surticosmeticos, Sugerir producto o marca, Otro",
+            "checkbox_checked_value": "Yes",
+            "checkbox_uncheck_value": "No",
+            "radio_options": ""
+          }
+        }
+      },
+      "block_order": [
+        "sidebar_6PaerX",
+        "custom_field_8AQYaC",
+        "custom_field_8mNKKQ",
+        "custom_field_d63Kne"
+      ],
+      "custom_css": [],
+      "settings": {
+        "container": "fixed",
+        "section_color_scheme": "",
+        "heading": "",
+        "highlight_style": "none",
+        "highlight_font_style": "italic",
+        "highlight_style_color": "",
+        "highlight_text_color": "",
+        "heading_size": "hd2",
+        "padding_top": 0,
+        "padding_bottom": 60,
+        "show_section_divider": false,
+        "divider_width": "fixed"
+      }
+    }
+  },
+  "order": [
+    "breadcrumbs_xYaBHj",
+    "rich_text_VWahrF",
+    "main",
+    "form"
+  ]
+}

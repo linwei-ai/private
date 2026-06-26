@@ -1,0 +1,272 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "breadcrumbs_RzgTi9": {
+      "type": "breadcrumbs",
+      "settings": {
+        "text_alignment": "start"
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "custom_css": [],
+      "settings": {
+        "text_alignment": "left",
+        "padding_top": 0,
+        "padding_bottom": 40
+      }
+    },
+    "image_with_text_HyVdFB": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_dfVT6f": {
+          "type": "heading",
+          "settings": {
+            "heading": "Valencia, San Francisco",
+            "highlight_style": "none",
+            "highlight_font_style": "italic",
+            "highlight_style_color": "",
+            "highlight_text_color": "",
+            "heading_size": "h3"
+          }
+        },
+        "icon_with_text_zrqnWA": {
+          "type": "icon_with_text",
+          "settings": {
+            "icon": "map-pin",
+            "icon_width": 32,
+            "color": "#64b7a6",
+            "heading": "Address",
+            "heading_size": "h5",
+            "text": "<p>382 NE 191st St # 87394 Miami</p>",
+            "vertical_alignment": "start"
+          }
+        },
+        "icon_with_text_bkLifn": {
+          "type": "icon_with_text",
+          "settings": {
+            "icon": "phone",
+            "icon_width": 28,
+            "color": "#64b7a6",
+            "heading": "Call Us",
+            "heading_size": "h5",
+            "text": "<p>+1 888-234-1234 (tool-free)</p>",
+            "vertical_alignment": "start"
+          }
+        },
+        "icon_with_text_mWGXjN": {
+          "type": "icon_with_text",
+          "settings": {
+            "icon": "clock",
+            "icon_width": 28,
+            "color": "#64b7a6",
+            "heading": "Working Hour",
+            "heading_size": "h5",
+            "text": "<p>Mon – Fri, 7:30 AM – 4:00 PM PT<br/>Sat, 8:00 AM – 1:00 PM PT<br/>Sun, Closed</p>",
+            "vertical_alignment": "start"
+          }
+        },
+        "button_3zjipx": {
+          "type": "button",
+          "settings": {
+            "button_label": "Get Direction",
+            "button_style": "btn--primary",
+            "button_icon": "none"
+          }
+        }
+      },
+      "block_order": [
+        "heading_dfVT6f",
+        "icon_with_text_zrqnWA",
+        "icon_with_text_bkLifn",
+        "icon_with_text_mWGXjN",
+        "button_3zjipx"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "image_position": "left",
+        "image_width": 55,
+        "desktop_content_position": "center",
+        "desktop_content_alignment": "left",
+        "mobile_content_alignment": "inherit",
+        "show_section_divider": false,
+        "divider_width": "fixed",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "image_with_text_RxHnyW": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_KKLGFw": {
+          "type": "heading",
+          "settings": {
+            "heading": "Valencia, San Francisco",
+            "highlight_style": "none",
+            "highlight_font_style": "italic",
+            "highlight_style_color": "",
+            "highlight_text_color": "",
+            "heading_size": "h3"
+          }
+        },
+        "icon_with_text_pACPkd": {
+          "type": "icon_with_text",
+          "settings": {
+            "icon": "map-pin",
+            "icon_width": 32,
+            "color": "#64b7a6",
+            "heading": "Address",
+            "heading_size": "h5",
+            "text": "<p>382 NE 191st St # 87394 Miami</p>",
+            "vertical_alignment": "start"
+          }
+        },
+        "icon_with_text_i8m4tj": {
+          "type": "icon_with_text",
+          "settings": {
+            "icon": "phone",
+            "icon_width": 28,
+            "color": "#64b7a6",
+            "heading": "Call Us",
+            "heading_size": "h5",
+            "text": "<p>+1 888-234-1234 (tool-free)</p>",
+            "vertical_alignment": "start"
+          }
+        },
+        "icon_with_text_aNtCKc": {
+          "type": "icon_with_text",
+          "settings": {
+            "icon": "clock",
+            "icon_width": 28,
+            "color": "#64b7a6",
+            "heading": "Working Hour",
+            "heading_size": "h5",
+            "text": "<p>Mon – Fri, 7:30 AM – 4:00 PM PT<br/>Sat, 8:00 AM – 1:00 PM PT<br/>Sun, Closed</p>",
+            "vertical_alignment": "start"
+          }
+        },
+        "button_fGyVhA": {
+          "type": "button",
+          "settings": {
+            "button_label": "Get Direction",
+            "button_style": "btn--primary",
+            "button_icon": "none"
+          }
+        }
+      },
+      "block_order": [
+        "heading_KKLGFw",
+        "icon_with_text_pACPkd",
+        "icon_with_text_i8m4tj",
+        "icon_with_text_aNtCKc",
+        "button_fGyVhA"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "image_position": "left",
+        "image_width": 55,
+        "desktop_content_position": "center",
+        "desktop_content_alignment": "left",
+        "mobile_content_alignment": "inherit",
+        "show_section_divider": false,
+        "divider_width": "fixed",
+        "padding_top": 60,
+        "padding_bottom": 0
+      }
+    },
+    "image_with_text_HbCN6U": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_HkG3cT": {
+          "type": "heading",
+          "settings": {
+            "heading": "Valencia, San Francisco",
+            "highlight_style": "none",
+            "highlight_font_style": "italic",
+            "highlight_style_color": "",
+            "highlight_text_color": "",
+            "heading_size": "h3"
+          }
+        },
+        "icon_with_text_j6hk89": {
+          "type": "icon_with_text",
+          "settings": {
+            "icon": "map-pin",
+            "icon_width": 32,
+            "color": "#64b7a6",
+            "heading": "Address",
+            "heading_size": "h5",
+            "text": "<p>382 NE 191st St # 87394 Miami</p>",
+            "vertical_alignment": "start"
+          }
+        },
+        "icon_with_text_kaLNUq": {
+          "type": "icon_with_text",
+          "settings": {
+            "icon": "phone",
+            "icon_width": 28,
+            "color": "#64b7a6",
+            "heading": "Call Us",
+            "heading_size": "h5",
+            "text": "<p>+1 888-234-1234 (tool-free)</p>",
+            "vertical_alignment": "start"
+          }
+        },
+        "icon_with_text_CYYVwq": {
+          "type": "icon_with_text",
+          "settings": {
+            "icon": "clock",
+            "icon_width": 28,
+            "color": "#64b7a6",
+            "heading": "Working Hour",
+            "heading_size": "h5",
+            "text": "<p>Mon – Fri, 7:30 AM – 4:00 PM PT<br/>Sat, 8:00 AM – 1:00 PM PT<br/>Sun, Closed</p>",
+            "vertical_alignment": "start"
+          }
+        },
+        "button_wJTYc6": {
+          "type": "button",
+          "settings": {
+            "button_label": "Get Direction",
+            "button_style": "btn--primary",
+            "button_icon": "none"
+          }
+        }
+      },
+      "block_order": [
+        "heading_HkG3cT",
+        "icon_with_text_j6hk89",
+        "icon_with_text_kaLNUq",
+        "icon_with_text_CYYVwq",
+        "button_wJTYc6"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "image_position": "left",
+        "image_width": 55,
+        "desktop_content_position": "center",
+        "desktop_content_alignment": "left",
+        "mobile_content_alignment": "inherit",
+        "show_section_divider": false,
+        "divider_width": "fixed",
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    }
+  },
+  "order": [
+    "breadcrumbs_RzgTi9",
+    "main",
+    "image_with_text_HyVdFB",
+    "image_with_text_RxHnyW",
+    "image_with_text_HbCN6U"
+  ]
+}

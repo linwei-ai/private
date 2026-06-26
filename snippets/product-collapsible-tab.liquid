@@ -1,0 +1,40 @@
+{%- liquid
+  assign heading_size = block.settings.heading_size | default: 'h4'
+  assign tab_heading = block.settings.heading | default: block.settings.page.title | downcase
+  assign is_description_tab = false
+  if tab_heading contains 'descripci' or tab_heading contains 'description'
+    assign is_description_tab = true
+    
+  endif
+
+  assign tab_content = block.settings.content | append: block.settings.page.content
+  if is_description_tab
+    assign tab_content = product.description
+  endif
+-%}
+{%- if tab_content != blank -%}
+  <details
+    id="Details-{{ block.id }}-{{ section_id }}"
+    class="accordion-details"
+    is="accordion-group"
+    {% if block.settings.default_open %}
+      open
+      aria-expanded="true"
+    {% else %}
+      aria-expanded="false"
+    {% endif %}
+  >
+    <summary class="accordion-details__summary flex items-center justify-between">
+      <div class="flex items-center gap-2">
+        {% render 'icons', icon: block.settings.icon %}
+        <h2 class="{{ heading_size }} inline-richtext">
+          {{ block.settings.heading | default: block.settings.page.title | escape }}
+        </h2>
+      </div>
+      {%- render 'icon-plus-toggle' -%}
+    </summary>
+    <div class="accordion-details__content rte text-subtext">
+      {{ tab_content }}
+    </div>
+  </details>
+{%- endif -%}

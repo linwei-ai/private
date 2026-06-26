@@ -1,0 +1,272 @@
+<article id="{{ page.handle }}" class="page entry container page-stores page-stores--custom">
+  <header>
+    <div class="title-bar custom-font title-locator">
+      <h1 class="main-heading">{{ page.title }}</h1>
+    </div>
+  </header>
+  <section
+    class="module store-locator"
+    data-aos="fade-up"
+    data-store-locator
+    data-google-maps-key="AIzaSyBYBqLreYRoRHnctDXm9IY_dN_KjQsosgg"
+    data-stores-url="{{ 'storesInfo.json' | asset_url }}">
+    <div class="module-select-locator">
+      <div class="container-titles">
+        <h2 class="main-heading font__PlayFair-display">{{ section.settings.title }}</h2>
+        <p class="main-sub-heading">{{ section.settings.subtitle }}</p>
+      </div>
+      <div class="location-options-container"></div>
+      <div id="stores" class="stores-list"></div>
+    </div>
+    <div class="map-container map-container--custom"></div>
+  </section>
+</article>
+
+<script src="{{ 'store-locator.js' | asset_url }}" defer></script>
+
+{% style %}
+  .title-locator {
+    display: none;
+  }
+
+  #MainContent {
+    padding: 0;
+  }
+
+  .page-stores--custom {
+    padding: 0;
+  }
+
+  .store-locator {
+    display: grid;
+    grid-template-columns: 470px 1fr;
+    gap: 0;
+    align-items: stretch;
+    border-top: 4px solid #9e79b8;
+    background: #fff;
+    overflow: hidden;
+  }
+
+  .module-select-locator {
+    padding: 28px 35px 28px 50px;
+    background: #fff;
+    display: flex;
+    flex-direction: column;
+    gap: 14px;
+    height: 640px;
+    overflow: hidden;
+  }
+
+  .container-titles .main-heading {
+    margin: 0 0 8px;
+    font-size: 30px;
+    line-height: 1.1;
+  }
+
+  .main-sub-heading {
+    margin: 0;
+    color: #5f5f6b;
+    font-size: 15px;
+    line-height: 1.4;
+  }
+
+  .store-locator .location-options-container {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+
+  .store-locator .location-options-container .store-locator__select {
+    -webkit-appearance: none;
+    appearance: none;
+    width: 100%;
+    min-height: 42px;
+    border: 1px solid #d2d2da;
+    border-radius: 24px;
+    background: #fff;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='8' viewBox='0 0 12 8' fill='none'%3E%3Cpath d='M1 1.25L6 6.25L11 1.25' stroke='%23282832' stroke-width='1.2' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E");
+    background-repeat: no-repeat;
+    background-position: right 16px center;
+    background-size: 12px 8px;
+    color: #4a4a56;
+    font-size: 14px;
+    padding: 10px 44px 10px 14px;
+    line-height: 1.2;
+    cursor: pointer;
+  }
+
+  .store-locator .stores-list {
+    flex: 1;
+    min-height: 0;
+    overflow: auto;
+    padding-right: 4px;
+  }
+
+  .store-locator .stores-list ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+
+  .store-locator .stores-list ul li {
+    list-style: none;
+    margin: 0;
+    padding: 14px 12px;
+    border: 1px solid #d8d8df;
+    border-radius: 8px;
+    background: #fff;
+    cursor: pointer;
+    transition: border-color 0.2s ease, box-shadow 0.2s ease, background-color 0.2s ease;
+  }
+
+  .store-locator .stores-list ul li:hover {
+    border-color: #c4b1d6;
+    box-shadow: 0 0 0 2px rgba(158, 121, 184, 0.12);
+  }
+
+  .store-locator .stores-list .store-list-item.active {
+    border-color: #9e79b8;
+    background: #f9f3ff;
+    box-shadow: 0 0 0 2px rgba(158, 121, 184, 0.15);
+  }
+
+  .store-locator .stores-list .store-list-item > strong {
+    display: block;
+    margin-bottom: 8px;
+    color: #121212;
+    font-size: 16px;
+    line-height: 1.2;
+    text-transform: none;
+    font-family: var(--font-body-family);
+    font-weight: 700;
+  }
+
+  .store-locator .stores-list .store-list-item p {
+    margin: 0 0 4px;
+    color: #333;
+    font-size: 14px;
+    line-height: 1.35;
+  }
+
+  .store-locator .stores-list .store-list-item p:last-child {
+    margin-bottom: 0;
+  }
+
+  .map-container--custom {
+    margin: 0;
+  }
+
+  .store-locator .map-container {
+    height: 640px;
+    min-height: 520px;
+    background: #e9e9ee;
+  }
+
+  .store-locator__info {
+    max-width: 280px;
+    color: #3f2b4d;
+    font-family: var(--font-body-family);
+    padding: 2px 2px 4px;
+  }
+
+  .store-locator__info-title {
+    margin: 0 0 10px;
+    color: #3b184d;
+    font-size: 38px;
+    line-height: 1.05;
+    font-weight: 500;
+    letter-spacing: 0.2px;
+  }
+
+  .store-locator__info-body p {
+    margin: 0 0 8px;
+    font-size: 14px;
+    line-height: 1.35;
+    color: #4a3a57;
+  }
+
+  .store-locator__info-body p strong {
+    color: #2e2039;
+    font-weight: 700;
+  }
+
+  .store-locator__info-link {
+    display: inline-block;
+    margin-top: 4px;
+    color: #5e3b75;
+    font-size: 14px;
+    text-decoration: none;
+    border-bottom: 1px solid rgba(94, 59, 117, 0.35);
+    transition: color 0.2s ease, border-color 0.2s ease;
+  }
+
+  .store-locator__info-link:hover {
+    color: #3b184d;
+    border-bottom-color: rgba(59, 24, 77, 0.6);
+  }
+
+  @media (min-width: 1025px) {
+    .store-locator {
+      margin-bottom: 20px;
+    }
+  }
+
+  @media (max-width: 1024px) {
+    .store-locator {
+      grid-template-columns: 1fr;
+    }
+
+    .module-select-locator {
+      padding: 20px 16px;
+      height: auto;
+      overflow: visible;
+    }
+
+    .store-locator .stores-list {
+      max-height: none;
+      min-height: 0;
+      overflow: visible;
+    }
+
+    .store-locator .map-container {
+      height: 480px;
+      min-height: 420px;
+    }
+  }
+{% endstyle %}
+
+{% schema %}
+{
+  "name": "Store Locator",
+  "tag": "section",
+  "class": "store-locator-section",
+  "settings": [
+    {
+      "type": "header",
+      "content": "Informacion del localizador de tiendas"
+    },
+    {
+      "id": "title",
+      "type": "text",
+      "label": "Titulo",
+      "default": "Localizador de tiendas"
+    },
+    {
+      "id": "subtitle",
+      "type": "text",
+      "label": "Subtitulo",
+      "default": "Encuentra la tienda mas cercana a tu ubicacion."
+    }
+  ],
+  "blocks": [],
+  "presets": [
+    {
+      "name": "Localizador de Tiendas",
+      "category": "Secciones Personalizadas"
+    }
+  ]
+}
+{% endschema %}

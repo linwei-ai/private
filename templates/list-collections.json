@@ -1,0 +1,766 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "breadcrumbs_Eqt34R": {
+      "type": "breadcrumbs",
+      "settings": {
+        "container": "fixed",
+        "text_alignment": "start"
+      }
+    },
+    "main": {
+      "type": "main-list-collections",
+      "disabled": true,
+      "settings": {
+        "container": "fixed",
+        "sort": "alphabetical",
+        "section_header_alignment": "left",
+        "section_header_alignment_mobile": "inherit",
+        "title": "Collections",
+        "highlight_style": "none",
+        "highlight_font_style": "italic",
+        "highlight_style_color": "",
+        "highlight_text_color": "",
+        "heading_size": "h2",
+        "card_color_scheme": "",
+        "card_style": "standard",
+        "card_heading_size": "text-base",
+        "card_image_ratio": "1/1",
+        "card_image_width": "large",
+        "rounded_card_image": true,
+        "card_show_border": false,
+        "collections_per_page": 18,
+        "columns_desktop": 6,
+        "column_gap": "medium",
+        "row_gap": "inherit",
+        "grid_bordered": true,
+        "columns_mobile": "1",
+        "padding_top": 100,
+        "padding_bottom": 100
+      }
+    },
+    "image_with_text_overlay_cmXMPb": {
+      "type": "image-with-text-overlay",
+      "blocks": {
+        "subheading_bqi48i": {
+          "type": "subheading",
+          "settings": {
+            "subheading": "<em>Black Friday Weekend</em>"
+          }
+        },
+        "heading_UqpVxb": {
+          "type": "heading",
+          "settings": {
+            "heading": "20% OFF sitewide and all stores",
+            "highlight_style": "none",
+            "highlight_font_style": "italic",
+            "highlight_style_color": "",
+            "highlight_text_color": "",
+            "heading_size": "hd2"
+          }
+        },
+        "button_ndhCdz": {
+          "type": "button",
+          "settings": {
+            "button_label": "Shop Now",
+            "button_style": "btn--primary",
+            "button_icon": "none"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_bqi48i",
+        "heading_UqpVxb",
+        "button_ndhCdz"
+      ],
+      "custom_css": [
+        "@media (min-width: 1280px) {.rich-text__heading {max-width: 45rem; }}"
+      ],
+      "settings": {
+        "container": "fixed",
+        "desktop_height": "adapt",
+        "overlay_opacity": 30,
+        "enable_parallax": false,
+        "parallax_direction": "vertical",
+        "color_scheme": "",
+        "content_position": "middle-center",
+        "content_alignment": "center",
+        "mobile_height": "adapt",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "enable_preload_image": false
+      }
+    },
+    "collection_list_yzwnVQ": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection_xHgmqF": {
+          "type": "featured_collection",
+          "settings": {
+            "title": "Body Oil"
+          }
+        },
+        "featured_collection_D7VDLf": {
+          "type": "featured_collection",
+          "settings": {
+            "title": "Sunscreen"
+          }
+        },
+        "featured_collection_BqQqhK": {
+          "type": "featured_collection",
+          "settings": {
+            "title": "Hand Cream"
+          }
+        },
+        "featured_collection_rtQF3c": {
+          "type": "featured_collection",
+          "settings": {
+            "title": "Makeup"
+          }
+        },
+        "featured_collection_jHqfhg": {
+          "type": "featured_collection",
+          "settings": {
+            "title": "Essentials"
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_xHgmqF",
+        "featured_collection_D7VDLf",
+        "featured_collection_BqQqhK",
+        "featured_collection_rtQF3c",
+        "featured_collection_jHqfhg"
+      ],
+      "settings": {
+        "container": "fixed",
+        "color_scheme": "",
+        "section_header_alignment": "left",
+        "section_header_alignment_mobile": "inherit",
+        "subheading": "",
+        "heading": "Trending Now",
+        "highlight_style": "none",
+        "highlight_font_style": "italic",
+        "highlight_style_color": "",
+        "highlight_text_color": "",
+        "heading_size": "h2",
+        "description": "",
+        "text_size": "text-base",
+        "button_label": "Shop Trending Now",
+        "button_style": "btn--plain",
+        "button_icon": "caret-right",
+        "card_color_scheme": "scheme-10",
+        "card_style": "card",
+        "card_heading_size": "h5",
+        "card_image_ratio": "1/1",
+        "card_image_width": "full",
+        "rounded_card_image": false,
+        "card_show_border": false,
+        "columns_desktop": 5,
+        "column_gap": "2xs",
+        "row_gap": "inherit",
+        "grid_bordered": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 60,
+        "padding_bottom": 0,
+        "show_section_divider": false,
+        "divider_width": "fixed"
+      }
+    },
+    "featured_collection_NiHfR9": {
+      "type": "featured-collection",
+      "blocks": {
+        "collection_9eaQ3U": {
+          "type": "collection",
+          "settings": {
+            "title": "",
+            "show_banner": true,
+            "color_scheme": "scheme-inverse",
+            "image_overlay_opacity": 0,
+            "content_position": "split-bottom-button",
+            "content_alignment": "left",
+            "subheading": "<em>Big Saving</em>",
+            "heading": "On Holiday Sets",
+            "highlight_style": "none",
+            "highlight_font_style": "italic",
+            "highlight_style_color": "",
+            "highlight_text_color": "",
+            "heading_size": "h3",
+            "description": "",
+            "text_size": "text-base",
+            "button_label": "Explore Now",
+            "button_style": "btn--plain",
+            "button_icon": "caret-right"
+          }
+        }
+      },
+      "block_order": [
+        "collection_9eaQ3U"
+      ],
+      "settings": {
+        "container": "fixed",
+        "color_scheme": "",
+        "section_header_alignment": "left",
+        "section_header_alignment_mobile": "inherit",
+        "subheading": "",
+        "heading": "Hair Care",
+        "highlight_style": "none",
+        "highlight_font_style": "italic",
+        "highlight_style_color": "",
+        "highlight_text_color": "",
+        "heading_size": "h2",
+        "description": "<p>Traditional divides between personal and professional space.</p>",
+        "text_size": "text-base",
+        "button_label": "Shop All Products",
+        "button_style": "btn--plain",
+        "button_icon": "caret-right",
+        "limit": 8,
+        "columns": 5,
+        "column_gap": "2xs",
+        "row_gap": "inherit",
+        "enable_slider": true,
+        "pcard_image_ratio": "",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 60,
+        "padding_bottom": 0,
+        "show_section_divider": false,
+        "divider_width": "fixed"
+      }
+    },
+    "featured_collection_pCVayy": {
+      "type": "featured-collection",
+      "blocks": {
+        "collection_HP86qG": {
+          "type": "collection",
+          "settings": {
+            "title": "",
+            "show_banner": true,
+            "color_scheme": "scheme-inverse",
+            "image_overlay_opacity": 0,
+            "content_position": "split-bottom-button",
+            "content_alignment": "left",
+            "subheading": "<em>Big Saving</em>",
+            "heading": "On Holiday Sets",
+            "highlight_style": "none",
+            "highlight_font_style": "italic",
+            "highlight_style_color": "",
+            "highlight_text_color": "",
+            "heading_size": "h3",
+            "description": "",
+            "text_size": "text-base",
+            "button_label": "Explore Now",
+            "button_style": "btn--plain",
+            "button_icon": "caret-right"
+          }
+        }
+      },
+      "block_order": [
+        "collection_HP86qG"
+      ],
+      "settings": {
+        "container": "fixed",
+        "color_scheme": "",
+        "section_header_alignment": "left",
+        "section_header_alignment_mobile": "inherit",
+        "subheading": "",
+        "heading": "Make Up",
+        "highlight_style": "none",
+        "highlight_font_style": "italic",
+        "highlight_style_color": "",
+        "highlight_text_color": "",
+        "heading_size": "h2",
+        "description": "<p>Traditional divides between personal and professional space.</p>",
+        "text_size": "text-base",
+        "button_label": "Shop All Products",
+        "button_style": "btn--plain",
+        "button_icon": "caret-right",
+        "limit": 8,
+        "columns": 5,
+        "column_gap": "2xs",
+        "row_gap": "inherit",
+        "enable_slider": true,
+        "pcard_image_ratio": "",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 60,
+        "padding_bottom": 0,
+        "show_section_divider": false,
+        "divider_width": "fixed"
+      }
+    },
+    "featured_countdown_timer_JxbJHw": {
+      "type": "featured-countdown-timer",
+      "blocks": {
+        "countdown_timer_6B88AF": {
+          "type": "countdown-timer",
+          "settings": {
+            "color_scheme": "scheme-info",
+            "image_overlay_opacity": 0,
+            "content_spacing": "medium",
+            "content_position": "start",
+            "content_alignment": "center",
+            "type": "evergreen",
+            "style": "number",
+            "number_size": "h2",
+            "duration": "every_month",
+            "time": "2025/08/20 03:45 PM",
+            "subheading": "<em>Countdown Is On</em>",
+            "heading": "Holiday Season Sale",
+            "highlight_style": "none",
+            "highlight_font_style": "italic",
+            "highlight_style_color": "",
+            "highlight_text_color": "",
+            "heading_size": "h2",
+            "text": "",
+            "text_size": "text-base",
+            "button_label": "Shop The Sale",
+            "button_style": "btn--secondary",
+            "button_icon": "none",
+            "enable_preload_image": false
+          }
+        },
+        "image_card_ewJfF8": {
+          "type": "image-card",
+          "settings": {
+            "color_scheme": "",
+            "content_alignment": "center",
+            "heading": "Serums",
+            "highlight_style": "none",
+            "highlight_font_style": "italic",
+            "highlight_style_color": "",
+            "highlight_text_color": "",
+            "heading_size": "text-base",
+            "text": ""
+          }
+        },
+        "image_card_3YKAYp": {
+          "type": "image-card",
+          "settings": {
+            "color_scheme": "",
+            "content_alignment": "center",
+            "heading": "Cleansers",
+            "highlight_style": "none",
+            "highlight_font_style": "italic",
+            "highlight_style_color": "",
+            "highlight_text_color": "",
+            "heading_size": "text-base",
+            "text": ""
+          }
+        },
+        "image_card_xtqhAH": {
+          "type": "image-card",
+          "settings": {
+            "color_scheme": "",
+            "content_alignment": "center",
+            "heading": "Shampoo",
+            "highlight_style": "none",
+            "highlight_font_style": "italic",
+            "highlight_style_color": "",
+            "highlight_text_color": "",
+            "heading_size": "text-base",
+            "text": ""
+          }
+        },
+        "image_card_aXactz": {
+          "type": "image-card",
+          "settings": {
+            "color_scheme": "",
+            "content_alignment": "center",
+            "heading": "Moisturizers",
+            "highlight_style": "none",
+            "highlight_font_style": "italic",
+            "highlight_style_color": "",
+            "highlight_text_color": "",
+            "heading_size": "text-base",
+            "text": ""
+          }
+        },
+        "image_card_kaHjqW": {
+          "type": "image-card",
+          "settings": {
+            "color_scheme": "",
+            "content_alignment": "center",
+            "heading": "Toners",
+            "highlight_style": "none",
+            "highlight_font_style": "italic",
+            "highlight_style_color": "",
+            "highlight_text_color": "",
+            "heading_size": "text-base",
+            "text": ""
+          }
+        },
+        "image_card_9TfRAj": {
+          "type": "image-card",
+          "settings": {
+            "color_scheme": "",
+            "content_alignment": "center",
+            "heading": "Masks",
+            "highlight_style": "none",
+            "highlight_font_style": "italic",
+            "highlight_style_color": "",
+            "highlight_text_color": "",
+            "heading_size": "text-base",
+            "text": ""
+          }
+        },
+        "image_card_YzDzp3": {
+          "type": "image-card",
+          "settings": {
+            "color_scheme": "",
+            "content_alignment": "center",
+            "heading": "Blush",
+            "highlight_style": "none",
+            "highlight_font_style": "italic",
+            "highlight_style_color": "",
+            "highlight_text_color": "",
+            "heading_size": "text-base",
+            "text": ""
+          }
+        },
+        "image_card_PyFf3K": {
+          "type": "image-card",
+          "settings": {
+            "color_scheme": "",
+            "content_alignment": "center",
+            "heading": "Makeup",
+            "highlight_style": "none",
+            "highlight_font_style": "italic",
+            "highlight_style_color": "",
+            "highlight_text_color": "",
+            "heading_size": "text-base",
+            "text": ""
+          }
+        },
+        "image_card_PcXwdL": {
+          "type": "image-card",
+          "settings": {
+            "color_scheme": "",
+            "content_alignment": "center",
+            "heading": "Skincare",
+            "highlight_style": "none",
+            "highlight_font_style": "italic",
+            "highlight_style_color": "",
+            "highlight_text_color": "",
+            "heading_size": "text-base",
+            "text": ""
+          }
+        },
+        "image_card_FkhRYM": {
+          "type": "image-card",
+          "settings": {
+            "color_scheme": "",
+            "content_alignment": "center",
+            "heading": "Candles",
+            "highlight_style": "none",
+            "highlight_font_style": "italic",
+            "highlight_style_color": "",
+            "highlight_text_color": "",
+            "heading_size": "text-base",
+            "text": ""
+          }
+        },
+        "image_card_7B3aLy": {
+          "type": "image-card",
+          "settings": {
+            "color_scheme": "",
+            "content_alignment": "center",
+            "heading": "Treatments",
+            "highlight_style": "none",
+            "highlight_font_style": "italic",
+            "highlight_style_color": "",
+            "highlight_text_color": "",
+            "heading_size": "text-base",
+            "text": ""
+          }
+        },
+        "image_card_pKTXFA": {
+          "type": "image-card",
+          "settings": {
+            "color_scheme": "",
+            "content_alignment": "center",
+            "heading": "Lipsticks",
+            "highlight_style": "none",
+            "highlight_font_style": "italic",
+            "highlight_style_color": "",
+            "highlight_text_color": "",
+            "heading_size": "text-base",
+            "text": ""
+          }
+        }
+      },
+      "block_order": [
+        "countdown_timer_6B88AF",
+        "image_card_ewJfF8",
+        "image_card_3YKAYp",
+        "image_card_xtqhAH",
+        "image_card_aXactz",
+        "image_card_kaHjqW",
+        "image_card_9TfRAj",
+        "image_card_YzDzp3",
+        "image_card_PyFf3K",
+        "image_card_PcXwdL",
+        "image_card_FkhRYM",
+        "image_card_7B3aLy",
+        "image_card_pKTXFA"
+      ],
+      "custom_css": [
+        "@media (min-width: 1280px) {.countdown-with-multi__content {--padding-y: 6rem; }}"
+      ],
+      "settings": {
+        "container": "fixed",
+        "color_scheme": "",
+        "columns_desktop": 4,
+        "column_gap": "2xs",
+        "row_gap": "inherit",
+        "columns_mobile": "3",
+        "swipe_on_mobile": false,
+        "show_section_divider": false,
+        "divider_width": "fixed",
+        "padding_top": 60,
+        "padding_bottom": 0
+      }
+    },
+    "promotion_banner_byLFDQ": {
+      "type": "promotion-banner",
+      "blocks": {
+        "subheading_xYwT9w": {
+          "type": "subheading",
+          "settings": {
+            "subheading": "<em>For A Limited Time</em>"
+          }
+        },
+        "heading_neHCyT": {
+          "type": "heading",
+          "settings": {
+            "heading": "Free Makeup Samples",
+            "highlight_style": "none",
+            "highlight_font_style": "italic",
+            "highlight_style_color": "",
+            "highlight_text_color": "",
+            "heading_size": "h2"
+          }
+        },
+        "text_6irLkJ": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Free 5 makeup samples with <br/>every order over $100</p>",
+            "text_color": "subtext"
+          }
+        },
+        "button_mjUrzy": {
+          "type": "button",
+          "settings": {
+            "button_label": "Shop Now",
+            "button_style": "btn--primary",
+            "button_icon": "none"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_xYwT9w",
+        "heading_neHCyT",
+        "text_6irLkJ",
+        "button_mjUrzy"
+      ],
+      "settings": {
+        "container": "fixed",
+        "color_scheme": "scheme-2",
+        "padding_top": 40,
+        "padding_bottom": 0
+      }
+    },
+    "horizontal_products_list_qwYKGd": {
+      "type": "horizontal-products-list",
+      "settings": {
+        "container": "fixed",
+        "color_scheme": "",
+        "section_header_alignment": "left",
+        "section_header_alignment_mobile": "inherit",
+        "subheading": "",
+        "heading": "Trending This Week",
+        "highlight_style": "none",
+        "highlight_font_style": "italic",
+        "highlight_style_color": "",
+        "highlight_text_color": "",
+        "heading_size": "h2",
+        "description": "",
+        "text_size": "text-base",
+        "button_label": "Shop All Products",
+        "button_style": "btn--plain",
+        "button_icon": "caret-right",
+        "max_height": 0,
+        "limit": 9,
+        "columns": 3,
+        "column_gap": "2xs",
+        "row_gap": "inherit",
+        "max_height_mobile": 500,
+        "padding_top": 40,
+        "padding_bottom": 0,
+        "show_section_divider": false,
+        "divider_width": "fixed"
+      }
+    },
+    "rich_text_QDw3ff": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_FGqayV": {
+          "type": "heading",
+          "settings": {
+            "heading": "About Ceramide",
+            "highlight_style": "none",
+            "highlight_font_style": "italic",
+            "highlight_style_color": "",
+            "highlight_text_color": "",
+            "heading_size": "h3"
+          }
+        },
+        "text_GXj9PX": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Furniture goes beyond mere function; it expresses personal taste and lifestyle preferences. Whether refreshing your living space or selecting new additions, recognizing the array of furniture styles and materials can guide you toward the perfect choice. From classic wood and metal to contemporary acrylic and glass, each material offers distinct advantages, from strength and resilience to modern versatility.</p><p>Choosing furniture involves more than aesthetics; it’s about setting a cohesive atmosphere that balances beauty, practicality, and durability. While many favor minimalist designs for their clean lines, there's always appeal in the rich detail of traditional pieces like Victorian or Art Deco. This overview provides insights into different styles and materials, helping you find the furniture that harmonizes with both your functional needs and personal style.</p><p>Choosing furniture involves more than aesthetics; it’s about setting a cohesive atmosphere that balances beauty, practicality, and durability. While many favor minimalist designs for their clean lines, there's always appeal in the rich detail of traditional pieces like Victorian or Art Deco. This overview provides insights into different styles and materials, helping you find the furniture that harmonizes with both your functional needs and personal style.</p>",
+            "text_size": "text-base",
+            "text_line_limit": "5-lines"
+          }
+        }
+      },
+      "block_order": [
+        "heading_FGqayV",
+        "text_GXj9PX"
+      ],
+      "settings": {
+        "container": "fixed",
+        "color_scheme": "scheme-10",
+        "use_color_scheme_in_container": true,
+        "content_spacing": "standard",
+        "content_alignment": "left",
+        "padding_top": 60,
+        "padding_bottom": 0,
+        "show_section_divider": false,
+        "divider_width": "fixed"
+      }
+    },
+    "buttons_with_icon_XJn7cx": {
+      "type": "buttons-with-icon",
+      "blocks": {
+        "button_item_xVkaBU": {
+          "type": "button_item",
+          "settings": {
+            "button_label": "Lip Scrubs",
+            "icon": "check"
+          }
+        },
+        "button_item_UNAajR": {
+          "type": "button_item",
+          "settings": {
+            "button_label": "Matte Lipssticks",
+            "icon": "check"
+          }
+        },
+        "button_item_LHei9W": {
+          "type": "button_item",
+          "settings": {
+            "button_label": "Foundations",
+            "icon": "check"
+          }
+        },
+        "button_item_tccr3T": {
+          "type": "button_item",
+          "settings": {
+            "button_label": "Sensitive Toner",
+            "icon": "check"
+          }
+        },
+        "button_item_jkRqNX": {
+          "type": "button_item",
+          "settings": {
+            "button_label": "Makeup Remove",
+            "icon": "check"
+          }
+        },
+        "button_item_Hm4ygB": {
+          "type": "button_item",
+          "settings": {
+            "button_label": "Makeup Tools",
+            "icon": "check"
+          }
+        },
+        "button_item_FCEVdB": {
+          "type": "button_item",
+          "settings": {
+            "button_label": "Hydrating Creams",
+            "icon": "check"
+          }
+        },
+        "button_item_8PEzWz": {
+          "type": "button_item",
+          "settings": {
+            "button_label": "Lip Scrubs",
+            "icon": "check"
+          }
+        },
+        "button_item_7jqcBX": {
+          "type": "button_item",
+          "settings": {
+            "button_label": "Foundations",
+            "icon": "check"
+          }
+        }
+      },
+      "block_order": [
+        "button_item_xVkaBU",
+        "button_item_UNAajR",
+        "button_item_LHei9W",
+        "button_item_tccr3T",
+        "button_item_jkRqNX",
+        "button_item_Hm4ygB",
+        "button_item_FCEVdB",
+        "button_item_8PEzWz",
+        "button_item_7jqcBX"
+      ],
+      "settings": {
+        "container": "fixed",
+        "color_scheme": "",
+        "section_header_alignment": "left",
+        "section_header_alignment_mobile": "inherit",
+        "subheading": "",
+        "heading": "Popular Search",
+        "highlight_style": "none",
+        "highlight_font_style": "italic",
+        "highlight_style_color": "",
+        "highlight_text_color": "",
+        "heading_size": "h2",
+        "item_alignment": "left",
+        "item_button_style": "btn--icon",
+        "enable_slider": true,
+        "swipe_on_mobile": true,
+        "show_section_divider": false,
+        "divider_width": "fixed",
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    }
+  },
+  "order": [
+    "breadcrumbs_Eqt34R",
+    "main",
+    "image_with_text_overlay_cmXMPb",
+    "collection_list_yzwnVQ",
+    "featured_collection_NiHfR9",
+    "featured_collection_pCVayy",
+    "featured_countdown_timer_JxbJHw",
+    "promotion_banner_byLFDQ",
+    "horizontal_products_list_qwYKGd",
+    "rich_text_QDw3ff",
+    "buttons_with_icon_XJn7cx"
+  ]
+}

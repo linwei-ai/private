@@ -1,0 +1,20 @@
+{%- doc -%}
+  Formatea un importe según ajustes del tema (código de moneda y ceros finales).
+  @param {number} amount - Importe en la unidad mínima de la tienda (p. ej. centavos)
+{%- enddoc -%}
+{%- liquid
+  assign mf_amount = amount | default: 0
+-%}
+{%- if settings.currency_code_enabled -%}
+  {%- if settings.currency_hide_trailing_zeros -%}
+    {{- mf_amount | money_with_currency_without_trailing_zeros -}}
+  {%- else -%}
+    {{- mf_amount | money_with_currency -}}
+  {%- endif -%}
+{%- else -%}
+  {%- if settings.currency_hide_trailing_zeros -%}
+    {{- mf_amount | money_without_trailing_zeros -}}
+  {%- else -%}
+    {{- mf_amount | money -}}
+  {%- endif -%}
+{%- endif -%}

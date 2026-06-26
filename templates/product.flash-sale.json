@@ -1,0 +1,1133 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "breadcrumbs": {
+      "type": "breadcrumbs",
+      "custom_css": [
+        "@media (min-width: 1280px) {.breadcrumbs {padding-inline: 5rem; }}",
+        "@media (max-width: 767px) {.breadcrumbs {padding-block-start: 0; margin-block-start: -0.4rem; }}"
+      ],
+      "settings": {
+        "container": "fixed",
+        "text_alignment": "start",
+        "padding_top": 16,
+        "padding_bottom": 20
+      }
+    },
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "badges": {
+          "type": "badges",
+          "settings": {
+            "show_soldout_badge": true,
+            "show_sale_badge": true,
+            "sale_badge_type": "percentage"
+          }
+        },
+        "title": {
+          "type": "title",
+          "settings": {
+            "heading_size": "h1"
+          }
+        },
+        "meta": {
+          "type": "meta",
+          "settings": {
+            "link_color": "#072835",
+            "show_vendor": true,
+            "show_product_type": true,
+            "show_sku": false,
+            "show_barcode": false
+          }
+        },
+        "price": {
+          "type": "price",
+          "settings": {}
+        },
+        "icon_with_text": {
+          "type": "icon-with-text",
+          "settings": {
+            "layout": "horizontal",
+            "title_font": "body-bolder",
+            "title_size": "text-base",
+            "icon_1": "check",
+            "heading_1": "Vegan",
+            "icon_2": "check",
+            "heading_2": "Gluten Free",
+            "icon_3": "check",
+            "heading_3": "Cluelty Free"
+          }
+        },
+        "inventory": {
+          "type": "inventory",
+          "disabled": true,
+          "settings": {
+            "text_style": "body",
+            "inventory_threshold": 10,
+            "show_inventory_quantity": true
+          }
+        },
+        "timer_WTQegG": {
+          "type": "timer",
+          "settings": {
+            "text_color": "#c4301c",
+            "type": "evergreen",
+            "duration": "every_month",
+            "time": "2025/08/20 03:45 PM",
+            "text": "Sales end in"
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {}
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button",
+            "swatch_type": "shopify_swatch",
+            "swatch_style": "circle",
+            "swatch_size": 32,
+            "button_style": "normal",
+            "size_title": "Size",
+            "size_chart_from_page": ""
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_quantity_selector": true,
+            "show_dynamic_checkout": true,
+            "show_gift_card_recipient": true
+          }
+        },
+        "icon_with_text_UAYgQU": {
+          "type": "icon-with-text",
+          "settings": {
+            "layout": "vertical",
+            "title_font": "body",
+            "title_size": "text-base",
+            "icon_1": "car-simple",
+            "heading_1": "Free International Shipping over $120",
+            "icon_2": "arrow-up-left",
+            "heading_2": "Free Returns Within 30 days",
+            "icon_3": "star-four",
+            "heading_3": ""
+          }
+        },
+        "pickup_availability": {
+          "type": "pickup_availability",
+          "settings": {}
+        },
+        "promotion_alert_L7ipQp": {
+          "type": "promotion_alert",
+          "settings": {
+            "text_color": "#0d8756",
+            "icon": "lightning",
+            "heading": "Limited time offer",
+            "description": "<p>Don’t miss out on this limited-time advantage crafted for you</p>"
+          }
+        },
+        "complementary": {
+          "type": "complementary",
+          "settings": {
+            "block_heading": "Perfect Match With",
+            "heading_size": "h4",
+            "show_below_product_media": false,
+            "make_collapsible_row": false,
+            "icon": "tag",
+            "product_list_limit": 6,
+            "layout": "grid",
+            "columns": 3,
+            "image_ratio": "1/1",
+            "enable_quick_add": true
+          }
+        },
+        "collapsible-row-1": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Specifications",
+            "heading_size": "h4",
+            "icon": "none",
+            "content": "",
+            "page": "product-content",
+            "default_open": true,
+            "show_below_product_media": true
+          }
+        },
+        "collapsible_tab_LJEHcH": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Ingredients",
+            "heading_size": "h4",
+            "icon": "none",
+            "content": "<p>Our cosmetic products are crafted with a blend of nourishing and effective ingredients designed to enhance your beauty and care for your skin. Key components include:</p><ul><li><strong>Aloe Vera Extract:</strong> Known for its soothing and moisturizing properties, it helps to hydrate the skin and reduce irritation.</li><li><strong>Shea Butter:</strong> Rich in vitamins and fatty acids, shea butter provides deep nourishment and creates a protective barrier on the skin.</li><li><strong>Hyaluronic Acid:</strong> A powerful humectant that attracts and retains moisture, keeping the skin plump and hydrated.</li><li><strong>Vitamin E:</strong> An antioxidant that helps to protect the skin from environmental stressors and promotes a healthy glow.</li><li><strong>Natural Oils (e.g., Jojoba Oil, Argan Oil):</strong> These oils are rich in essential fatty acids and vitamins, offering hydration and improving skin texture.</li></ul><p>Each ingredient is carefully selected to ensure our products are effective, safe, and suitable for a variety of skin types.</p>",
+            "page": "",
+            "default_open": false,
+            "show_below_product_media": true
+          }
+        },
+        "collapsible_tab_piweU8": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Shipping & Return",
+            "heading_size": "h4",
+            "icon": "none",
+            "content": "<p>Once we receive your return, we’ll process your refund within 5-7 business days. Refunds will be credited back to your original payment method. For more details on how to start a return, visit our Returns page or contact our support team—we’re here to help! Shop confidently knowing we’ve got you covered.</p>",
+            "page": "",
+            "default_open": false,
+            "show_below_product_media": true
+          }
+        },
+        "payment_info": {
+          "type": "payment_info",
+          "settings": {
+            "color_scheme": "scheme-774054da-3582-4852-b955-9e3b5fa1cdcd",
+            "heading": "Payment & Security",
+            "highlight_style": "none",
+            "highlight_font_style": "italic",
+            "highlight_style_color": "",
+            "highlight_text_color": "",
+            "heading_size": "h5",
+            "description": "<p>Your payment information is processed securely. We do not store credit card details nor have access to your credit card information.</p>",
+            "show_payment_icons": true,
+            "show_below_product_media": true
+          }
+        },
+        "divider_pPz3Kw": {
+          "type": "divider",
+          "settings": {
+            "show_below_product_media": false
+          }
+        },
+        "social_sharing": {
+          "type": "social_sharing",
+          "settings": {}
+        },
+        "sticky_atc_bar_9qWRW6": {
+          "type": "sticky-atc-bar",
+          "settings": {
+            "visibility": "all",
+            "style": "minimalist",
+            "container": "full",
+            "show_atc_button": true,
+            "show_dynamic_checkout_buttons": false,
+            "show_quantity": true
+          }
+        }
+      },
+      "block_order": [
+        "badges",
+        "title",
+        "meta",
+        "price",
+        "icon_with_text",
+        "inventory",
+        "timer_WTQegG",
+        "description",
+        "variant_picker",
+        "buy_buttons",
+        "icon_with_text_UAYgQU",
+        "pickup_availability",
+        "promotion_alert_L7ipQp",
+        "complementary",
+        "collapsible-row-1",
+        "collapsible_tab_LJEHcH",
+        "collapsible_tab_piweU8",
+        "payment_info",
+        "divider_pPz3Kw",
+        "social_sharing",
+        "sticky_atc_bar_9qWRW6"
+      ],
+      "custom_css": [
+        "@media (min-width: 1280px) {.product {padding-inline: 5rem; }}"
+      ],
+      "settings": {
+        "color_scheme": "scheme-1",
+        "use_color_scheme_in_container": false,
+        "enable_sticky_info": true,
+        "media_size": "large",
+        "gallery_layout": "vertical-carousel",
+        "mobile_thumbnails": "show",
+        "show_image_border": false,
+        "enable_image_zoom": true,
+        "enable_video_looping": true,
+        "padding_top": 0,
+        "padding_bottom": 60
+      }
+    },
+    "scrolling_promotion_eCxjQ7": {
+      "type": "scrolling-promotion",
+      "blocks": {
+        "text_DWxYna": {
+          "type": "text",
+          "settings": {
+            "text_link": "",
+            "text": "Fast Delivery",
+            "text_size": "h4",
+            "text_opacity": 100,
+            "use_custom_color": false,
+            "custom_color": "#000000"
+          }
+        },
+        "text_NfngCj": {
+          "type": "text",
+          "settings": {
+            "text_link": "",
+            "text": "30 Days Free Returns",
+            "text_size": "h4",
+            "text_opacity": 100,
+            "use_custom_color": false,
+            "custom_color": "#000000"
+          }
+        },
+        "text_qtTMwc": {
+          "type": "text",
+          "settings": {
+            "text_link": "",
+            "text": "Secure Payment",
+            "text_size": "h4",
+            "text_opacity": 100,
+            "use_custom_color": false,
+            "custom_color": "#000000"
+          }
+        }
+      },
+      "block_order": [
+        "text_DWxYna",
+        "text_NfngCj",
+        "text_qtTMwc"
+      ],
+      "settings": {
+        "color_scheme": "scheme-4",
+        "direction": "left",
+        "pause_on_hover": true,
+        "speed": 0.3,
+        "h_spacing": 70,
+        "show_section_divider": false,
+        "padding_top": 16,
+        "padding_bottom": 16
+      }
+    },
+    "buttons_with_icon_Dy9EG6": {
+      "type": "buttons-with-icon",
+      "blocks": {
+        "button_item_RVYpWe": {
+          "type": "button_item",
+          "settings": {
+            "button_label": "Free Shipping",
+            "button_link": "",
+            "icon": "check"
+          }
+        },
+        "button_item_ag7rCA": {
+          "type": "button_item",
+          "settings": {
+            "button_label": "Non-Comedogenic",
+            "button_link": "",
+            "icon": "check"
+          }
+        },
+        "button_item_LynLtk": {
+          "type": "button_item",
+          "settings": {
+            "button_label": "Safe for Sensitive Skin",
+            "button_link": "",
+            "icon": "check"
+          }
+        },
+        "button_item_yeTw9J": {
+          "type": "button_item",
+          "settings": {
+            "button_label": "Dermatologist - Tested",
+            "button_link": "",
+            "icon": "check"
+          }
+        }
+      },
+      "block_order": [
+        "button_item_RVYpWe",
+        "button_item_ag7rCA",
+        "button_item_LynLtk",
+        "button_item_yeTw9J"
+      ],
+      "custom_css": [
+        ".section__header--text {max-width: 56rem;}"
+      ],
+      "settings": {
+        "container": "fixed",
+        "color_scheme": "",
+        "section_header_alignment": "center",
+        "section_header_alignment_mobile": "inherit",
+        "subheading": "",
+        "heading": "Take the time you <em>deserve</em>, and let beauty shine within you",
+        "highlight_style": "hand_drawn_circle",
+        "highlight_font_style": "italic",
+        "highlight_style_color": "#ffd3cd",
+        "highlight_text_color": "",
+        "heading_size": "h1",
+        "item_alignment": "center",
+        "item_button_style": "btn--icon",
+        "item_button_font": "button",
+        "enable_slider": true,
+        "swipe_on_mobile": true,
+        "show_section_divider": false,
+        "divider_width": "fixed",
+        "padding_top": 60,
+        "padding_bottom": 0
+      }
+    },
+    "image_comparison_t8ciRn": {
+      "type": "image-comparison",
+      "blocks": {
+        "image_c7peJH": {
+          "type": "image",
+          "settings": {
+            "heading": "After 2 months",
+            "color_scheme": ""
+          }
+        },
+        "image_nXciTV": {
+          "type": "image",
+          "settings": {
+            "heading": "Before",
+            "color_scheme": ""
+          }
+        },
+        "text_XpqWbH": {
+          "type": "text",
+          "settings": {
+            "text_alignment": "left",
+            "text_alignment_mobile": "inherit",
+            "heading": "100%",
+            "heading_color": "#64b7a6",
+            "heading_size": "h2",
+            "description": "<p>Users reported a noticeable boost in skin moisture after using the serum, <br/>with hydration levels significantly improving.</p>",
+            "text_size": "text-base"
+          }
+        },
+        "text_ziRiRr": {
+          "type": "text",
+          "settings": {
+            "text_alignment": "left",
+            "text_alignment_mobile": "inherit",
+            "heading": "94%",
+            "heading_color": "#64b7a6",
+            "heading_size": "h2",
+            "description": "<p>Users observed visible improvement in blemishes, redness, and uneven skin <br/>tone, revealing a clearer, more balanced complexion.</p>",
+            "text_size": "text-base"
+          }
+        }
+      },
+      "block_order": [
+        "image_c7peJH",
+        "image_nXciTV",
+        "text_XpqWbH",
+        "text_ziRiRr"
+      ],
+      "custom_css": [
+        ".section__header {max-width: 45rem;}"
+      ],
+      "settings": {
+        "container": "fixed",
+        "color_scheme": "",
+        "section_header_alignment": "left",
+        "section_header_alignment_mobile": "inherit",
+        "subheading": "<em>Clinical Results</em>",
+        "heading": "Leaving skin plump, smooth, and radiant.",
+        "highlight_style": "none",
+        "highlight_font_style": "italic",
+        "highlight_style_color": "",
+        "highlight_text_color": "",
+        "heading_size": "h1",
+        "description": "",
+        "description_size": "text-base",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "btn--primary",
+        "button_icon": "none",
+        "direction": "horizontal",
+        "image_height": "medium",
+        "image_heading_style": "badge",
+        "padding_top": 60,
+        "padding_bottom": 60,
+        "show_section_divider": false,
+        "divider_width": "fixed"
+      }
+    },
+    "testimonials_8JHr3L": {
+      "type": "testimonials",
+      "blocks": {
+        "testimonial_4nXcQ7": {
+          "type": "testimonial",
+          "settings": {
+            "heading": "Testimonials",
+            "text": "<p>“This was a great way for me to try Osea products for the first time and I highly recommend all of them. They work well and I will be repurchasing.”</p>",
+            "author": "Jenny W.",
+            "bio": "Verified Buyer"
+          }
+        },
+        "testimonial_pNihpA": {
+          "type": "testimonial",
+          "settings": {
+            "heading": "Testimonials",
+            "text": "<p>“The story behind, and sustainable production, and the feeling of no risk with the free return information.”</p>",
+            "author": "Stephanie",
+            "bio": "Verified Buyer"
+          }
+        },
+        "testimonial_dPMfPd": {
+          "type": "testimonial",
+          "settings": {
+            "heading": "Testimonials",
+            "text": "<p>“High-quality furniture, crafted with passion and care, fantastic in appearance and use, reasonably priced, and excellent custome.”</p>",
+            "author": "Rachel",
+            "bio": "Verified Buyer"
+          }
+        },
+        "testimonial_CXAGMb": {
+          "type": "testimonial",
+          "settings": {
+            "heading": "Testimonials",
+            "text": "<p>“I have always loved the brand Innersense Organic Beauty, but I struggled to find products among their hair baths”</p>",
+            "author": "Emily A.",
+            "bio": "Verified Buyer"
+          }
+        },
+        "testimonial_VGKneP": {
+          "type": "testimonial",
+          "settings": {
+            "heading": "Testimonials",
+            "text": "<p>“This face wash has been a part of my daily routine for a bit now, and it's been a remarkable addition that has significantly improved my skin!”</p>",
+            "author": "Cooper",
+            "bio": "Verified Buyer"
+          }
+        }
+      },
+      "block_order": [
+        "testimonial_4nXcQ7",
+        "testimonial_pNihpA",
+        "testimonial_dPMfPd",
+        "testimonial_CXAGMb",
+        "testimonial_VGKneP"
+      ],
+      "settings": {
+        "container": "fixed",
+        "color_scheme": "scheme-6",
+        "section_header_alignment": "left",
+        "section_header_alignment_mobile": "inherit",
+        "subheading": "",
+        "heading": "Clients Love Us",
+        "highlight_style": "none",
+        "highlight_font_style": "italic",
+        "highlight_style_color": "",
+        "highlight_text_color": "",
+        "heading_size": "h2",
+        "description": "",
+        "text_size": "text-base",
+        "layout": "standard",
+        "card_color_scheme": "",
+        "card_content_color_scheme": "",
+        "card_image_ratio": "adapt",
+        "card_heading_size": "h4",
+        "card_text_size": "text-base",
+        "author_info_layout": "vertical",
+        "card_trigger_behavior": "click",
+        "show_image": true,
+        "show_author_image": true,
+        "columns_desktop": 3,
+        "column_gap": "2xs",
+        "row_gap": "inherit",
+        "enable_slider": true,
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "show_progress_bar": true,
+        "padding_top": 60,
+        "padding_bottom": 60,
+        "show_section_divider": false,
+        "divider_width": "fixed"
+      }
+    },
+    "image_with_text_iLRDCn": {
+      "type": "image-with-text",
+      "blocks": {
+        "subheading_kLkUeF": {
+          "type": "subheading",
+          "settings": {
+            "subheading": "<em>Why We Love It</em>"
+          }
+        },
+        "heading_b7YxPa": {
+          "type": "heading",
+          "settings": {
+            "heading": "Cultivating Change with Every Bottle",
+            "highlight_style": "none",
+            "highlight_font_style": "italic",
+            "highlight_style_color": "",
+            "highlight_text_color": "",
+            "heading_size": "h1"
+          }
+        },
+        "text_7wx8EH": {
+          "type": "text",
+          "settings": {
+            "text": "<p>The good design concepts at the heart of Danish design are functionality, beauty and the needs of the many. This is a strong tradition. And when a tradition is strong enough, it leaves room for innovation that allows us to always move forward.</p>",
+            "subtext_color": true
+          }
+        },
+        "button_qKLmEg": {
+          "type": "button",
+          "settings": {
+            "button_label": "Learn More",
+            "button_style": "btn--primary",
+            "button_icon": "none"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_kLkUeF",
+        "heading_b7YxPa",
+        "text_7wx8EH",
+        "button_qKLmEg"
+      ],
+      "custom_css": [
+        "@media (min-width: 1280px) {.image-with-text__content {max-width: 50rem; }}"
+      ],
+      "settings": {
+        "container": "fixed",
+        "color_scheme": "",
+        "image_position": "left",
+        "image_width": 50,
+        "desktop_content_position": "center",
+        "desktop_content_alignment": "left",
+        "mobile_content_alignment": "inherit",
+        "show_section_divider": false,
+        "divider_width": "fixed",
+        "padding_top": 60,
+        "padding_bottom": 0
+      }
+    },
+    "multicolumn_icon_C6634r": {
+      "type": "multicolumn-icon",
+      "blocks": {
+        "column_RyfyAc": {
+          "type": "column",
+          "settings": {
+            "icon": "chat",
+            "max_width": 60,
+            "max_width_mb": 60,
+            "title": "Vegan, Cruelty-Free",
+            "highlight_style": "none",
+            "highlight_font_style": "italic",
+            "highlight_style_color": "",
+            "highlight_text_color": "",
+            "heading_size": "h4",
+            "heading_font": "heading",
+            "text": "<p>We have always used vegan and <br/>cruelty-free ingredients.</p>",
+            "text_size": "text-base",
+            "button_label": "",
+            "button_link": "",
+            "button_style": "btn--underline",
+            "button_icon": "none"
+          }
+        },
+        "column_4PiDHh": {
+          "type": "column",
+          "settings": {
+            "icon": "phone",
+            "max_width": 60,
+            "max_width_mb": 60,
+            "title": "Gluten Free",
+            "highlight_style": "none",
+            "highlight_font_style": "italic",
+            "highlight_style_color": "",
+            "highlight_text_color": "",
+            "heading_size": "h4",
+            "heading_font": "heading",
+            "text": "<p>We continuously use vegan and <br/>cruelty-free formulas</p>",
+            "text_size": "text-base",
+            "button_label": "",
+            "button_link": "",
+            "button_style": "btn--underline",
+            "button_icon": "none"
+          }
+        },
+        "column_yqB7VU": {
+          "type": "column",
+          "settings": {
+            "icon": "paperplane",
+            "max_width": 60,
+            "max_width_mb": 60,
+            "title": "Paraben Free",
+            "highlight_style": "none",
+            "highlight_font_style": "italic",
+            "highlight_style_color": "",
+            "highlight_text_color": "",
+            "heading_size": "h4",
+            "heading_font": "heading",
+            "text": "<p>We’ve always selected vegan and <br/>cruelty-free ingredients.</p>",
+            "text_size": "text-base",
+            "button_label": "",
+            "button_link": "",
+            "button_style": "btn--underline",
+            "button_icon": "none"
+          }
+        },
+        "column_xWb4w6": {
+          "type": "column",
+          "settings": {
+            "icon": "map-pin",
+            "max_width": 60,
+            "max_width_mb": 60,
+            "title": "Packaging",
+            "highlight_style": "none",
+            "highlight_font_style": "italic",
+            "highlight_style_color": "",
+            "highlight_text_color": "",
+            "heading_size": "h4",
+            "heading_font": "heading",
+            "text": "<p>We have consistently made vegan and <br/>cruelty-free choices.</p>",
+            "text_size": "text-base",
+            "button_label": "",
+            "button_link": "",
+            "button_style": "btn--underline",
+            "button_icon": "none"
+          }
+        }
+      },
+      "block_order": [
+        "column_RyfyAc",
+        "column_4PiDHh",
+        "column_yqB7VU",
+        "column_xWb4w6"
+      ],
+      "settings": {
+        "container": "fixed",
+        "color_scheme": "scheme-1",
+        "header_layout": "vertical",
+        "section_header_alignment": "left",
+        "section_header_alignment_mobile": "inherit",
+        "subheading": "",
+        "heading": "",
+        "highlight_style": "none",
+        "highlight_font_style": "italic",
+        "highlight_style_color": "",
+        "highlight_text_color": "",
+        "heading_size": "h1",
+        "description": "",
+        "text_size": "text-base",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "btn--underline",
+        "button_icon": "none",
+        "enable_sticky": false,
+        "card_color_scheme": "scheme-1",
+        "content_alignment": "center",
+        "image_position": "top",
+        "icon_color": "#64b7a6",
+        "columns_desktop": 4,
+        "column_gap": "large",
+        "row_gap": "inherit",
+        "show_divider_col": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "show_section_divider": false,
+        "divider_width": "fixed",
+        "padding_top": 40,
+        "padding_bottom": 40
+      }
+    },
+    "multicolumn_T3qdNY": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_M9r9TM": {
+          "type": "column",
+          "settings": {
+            "title": "Shake It Up",
+            "highlight_style": "none",
+            "highlight_font_style": "italic",
+            "highlight_style_color": "",
+            "highlight_text_color": "",
+            "heading_size": "h4",
+            "text": "<p>Shake the bottle well. Skin Tint is formulated without silicone, so some separation is normal. </p>",
+            "text_size": "text-base",
+            "button_label": "",
+            "button_link": "",
+            "button_style": "btn--underline",
+            "button_icon": "none"
+          }
+        },
+        "column_zRcDgY": {
+          "type": "column",
+          "settings": {
+            "title": "Apply Like a Serum",
+            "highlight_style": "none",
+            "highlight_font_style": "italic",
+            "highlight_style_color": "",
+            "highlight_text_color": "",
+            "heading_size": "h4",
+            "text": "<p>Smooth onto clean skin with your fingers, blending well for even coverage.</p>",
+            "text_size": "text-base",
+            "button_label": "",
+            "button_link": "",
+            "button_style": "btn--underline",
+            "button_icon": "none"
+          }
+        },
+        "column_9EKQhM": {
+          "type": "column",
+          "settings": {
+            "title": "Lend a Hand",
+            "highlight_style": "none",
+            "highlight_font_style": "italic",
+            "highlight_style_color": "",
+            "highlight_text_color": "",
+            "heading_size": "h4",
+            "text": "<p>Squeeze the dropper to pick up freshly mixed pigment and dispense half of a pipette into your palms.</p>",
+            "text_size": "text-base",
+            "button_label": "",
+            "button_link": "",
+            "button_style": "btn--underline",
+            "button_icon": "none"
+          }
+        },
+        "column_pRtbdH": {
+          "type": "column",
+          "settings": {
+            "title": "Let It Set",
+            "highlight_style": "none",
+            "highlight_font_style": "italic",
+            "highlight_style_color": "",
+            "highlight_text_color": "",
+            "heading_size": "h4",
+            "text": "<p>To help guide your SPF application, your shade will appear lighter before adjusting to its true tone in 60 seconds.</p>",
+            "text_size": "text-base",
+            "button_label": "",
+            "button_link": "",
+            "button_style": "btn--underline",
+            "button_icon": "none"
+          }
+        }
+      },
+      "block_order": [
+        "column_M9r9TM",
+        "column_zRcDgY",
+        "column_9EKQhM",
+        "column_pRtbdH"
+      ],
+      "settings": {
+        "container": "fixed",
+        "color_scheme": "",
+        "section_header_alignment": "center",
+        "section_header_alignment_mobile": "inherit",
+        "subheading": "",
+        "heading": "How to Use",
+        "highlight_style": "none",
+        "highlight_font_style": "italic",
+        "highlight_style_color": "",
+        "highlight_text_color": "",
+        "heading_size": "h2",
+        "description": "",
+        "text_size": "text-base",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "btn--underline",
+        "button_icon": "none",
+        "content_alignment": "left",
+        "show_col_count": true,
+        "show_image": true,
+        "columns_desktop": 4,
+        "column_gap": "medium",
+        "row_gap": "inherit",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "show_section_divider": true,
+        "divider_width": "full",
+        "padding_top": 60,
+        "padding_bottom": 0
+      }
+    },
+    "video_hero_3RtzVB": {
+      "type": "video-hero",
+      "blocks": {
+        "subheading_jJnkgM": {
+          "type": "subheading",
+          "settings": {
+            "subheading": "<em>Ceramide Cosmetic</em>"
+          }
+        },
+        "heading_h4EFea": {
+          "type": "heading",
+          "settings": {
+            "heading": "You might be surprised to find it’s all you need.",
+            "highlight_style": "none",
+            "highlight_font_style": "italic",
+            "highlight_style_color": "",
+            "highlight_text_color": "",
+            "heading_size": "h1"
+          }
+        },
+        "button_yQCmeC": {
+          "type": "button",
+          "settings": {
+            "button_label": "Learn More",
+            "button_style": "btn--primary",
+            "button_icon": "none"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_jJnkgM",
+        "heading_h4EFea",
+        "button_yQCmeC"
+      ],
+      "custom_css": [
+        ".video-hero__content-wrapper {max-width: 48rem;}"
+      ],
+      "settings": {
+        "container": "fixed",
+        "description": "",
+        "video_height": "adapt",
+        "overlay_opacity": 20,
+        "enable_parallax": false,
+        "parallax_direction": "vertical",
+        "color_scheme": "",
+        "content_position": "middle-center",
+        "content_alignment": "center",
+        "video_mobile_height": "medium",
+        "padding_top": 60,
+        "padding_bottom": 0,
+        "show_section_divider": false,
+        "divider_width": "fixed"
+      }
+    },
+    "related_products_zdQ6HQ": {
+      "type": "related-products",
+      "settings": {
+        "container": "fixed",
+        "color_scheme": "",
+        "section_header_alignment": "center",
+        "section_header_alignment_mobile": "inherit",
+        "subheading": "",
+        "heading": "You may also like",
+        "highlight_style": "none",
+        "highlight_font_style": "italic",
+        "highlight_style_color": "",
+        "highlight_text_color": "",
+        "heading_size": "h2",
+        "description": "",
+        "limit": 8,
+        "columns": 5,
+        "column_gap": "2xs",
+        "row_gap": "inherit",
+        "enable_slider": true,
+        "navigation_position": "bottom",
+        "pcard_image_ratio": "",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "show_progress_bar": true,
+        "padding_top": 60,
+        "padding_bottom": 0,
+        "show_section_divider": false,
+        "divider_width": "fixed"
+      }
+    },
+    "collapsible_tabs_Wd4abd": {
+      "type": "collapsible-tabs",
+      "blocks": {
+        "collapsible_item_b8cktj": {
+          "type": "collapsible_item",
+          "settings": {
+            "icon": "none",
+            "heading": "How long does it take to process an order?",
+            "content": "<p>Our 24/7 Lace Contour Plunge Bra combines gorgeous floral lace with sheer overlay straps that hold you in and eliminates gaping. Removable pads let you customize you</p>",
+            "custom_liquid": "",
+            "page": "",
+            "open": true,
+            "use_subtext_color": false
+          }
+        },
+        "collapsible_item_9TDjcH": {
+          "type": "collapsible_item",
+          "settings": {
+            "icon": "none",
+            "heading": "Do you ship internationally?",
+            "content": "<p>Yes, we offer international shipping to select countries. Please check our shipping policy for details on destinations, rates, and delivery times.</p>",
+            "custom_liquid": "",
+            "page": "",
+            "open": false,
+            "use_subtext_color": false
+          }
+        },
+        "collapsible_item_7yt9ir": {
+          "type": "collapsible_item",
+          "settings": {
+            "icon": "none",
+            "heading": "What is your return policy?",
+            "content": "<p>We accept returns within 30 days of delivery, provided the items are unused and in their original condition. For detailed instructions, please refer to our return policy or contact our support team.</p>",
+            "custom_liquid": "",
+            "page": "",
+            "open": false,
+            "use_subtext_color": false
+          }
+        },
+        "collapsible_item_XeTJaY": {
+          "type": "collapsible_item",
+          "settings": {
+            "icon": "none",
+            "heading": "What are your sizing options?",
+            "content": "<p>Our products are available in a range of sizes to ensure the perfect fit. Detailed sizing information is provided on each product page, and our size guide can help you choose the best option.</p>",
+            "custom_liquid": "",
+            "page": "",
+            "open": false,
+            "use_subtext_color": false
+          }
+        }
+      },
+      "block_order": [
+        "collapsible_item_b8cktj",
+        "collapsible_item_9TDjcH",
+        "collapsible_item_7yt9ir",
+        "collapsible_item_XeTJaY"
+      ],
+      "settings": {
+        "container": "narrow",
+        "color_scheme": "",
+        "header_layout": "vertical",
+        "section_header_alignment": "center",
+        "section_header_alignment_mobile": "left",
+        "subheading": "",
+        "heading": "Discover more in our FAQ",
+        "highlight_style": "none",
+        "highlight_font_style": "italic",
+        "highlight_style_color": "",
+        "highlight_text_color": "",
+        "heading_size": "h2",
+        "description": "",
+        "text_size": "text-base",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "btn--primary",
+        "button_icon": "none",
+        "column_gap": "large",
+        "row_gap": "inherit",
+        "item_style": "standard",
+        "item_color_scheme": "",
+        "item_heading_font": "heading",
+        "item_heading_size": "h4",
+        "item_icon_size": "extra-large",
+        "padding_top": 60,
+        "padding_bottom": 60,
+        "show_section_divider": false,
+        "divider_width": "fixed"
+      }
+    },
+    "scrolling_gallery_image_n6qGHE": {
+      "type": "scrolling-gallery-image",
+      "blocks": {
+        "gallery_fnCyMU": {
+          "type": "gallery",
+          "settings": {
+            "color_scheme": "",
+            "image_link": "",
+            "social_media": "instagram",
+            "heading": "plantbasedglow"
+          }
+        },
+        "gallery_ibwEEL": {
+          "type": "gallery",
+          "settings": {
+            "color_scheme": "",
+            "image_link": "",
+            "social_media": "instagram",
+            "heading": "crueltyfreequeen"
+          }
+        },
+        "gallery_QXHicH": {
+          "type": "gallery",
+          "settings": {
+            "color_scheme": "",
+            "image_link": "",
+            "social_media": "instagram",
+            "heading": "naturalskincare"
+          }
+        },
+        "gallery_kKyW3w": {
+          "type": "gallery",
+          "settings": {
+            "color_scheme": "",
+            "image_link": "",
+            "social_media": "instagram",
+            "heading": "purelyvegan"
+          }
+        },
+        "gallery_rVVpjL": {
+          "type": "gallery",
+          "settings": {
+            "color_scheme": "scheme-1",
+            "image_link": "",
+            "social_media": "instagram",
+            "heading": "wholesomeglow"
+          }
+        }
+      },
+      "block_order": [
+        "gallery_fnCyMU",
+        "gallery_ibwEEL",
+        "gallery_QXHicH",
+        "gallery_kKyW3w",
+        "gallery_rVVpjL"
+      ],
+      "settings": {
+        "color_scheme": "scheme-3",
+        "section_header_alignment": "center",
+        "section_header_alignment_mobile": "inherit",
+        "subheading": "",
+        "heading": "We’re on Gram",
+        "highlight_style": "none",
+        "highlight_font_style": "italic",
+        "highlight_style_color": "",
+        "highlight_text_color": "",
+        "heading_size": "h1",
+        "description": "",
+        "text_size": "text-base",
+        "show_button_on_top": false,
+        "button_label": "@ceramide_cosmetic",
+        "button_style": "btn--underline",
+        "button_icon": "none",
+        "direction": "left",
+        "speed": 0.3,
+        "pause_on_hover": true,
+        "column_gap": "medium",
+        "show_section_divider": false,
+        "divider_width": "fixed",
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    }
+  },
+  "order": [
+    "breadcrumbs",
+    "main",
+    "scrolling_promotion_eCxjQ7",
+    "buttons_with_icon_Dy9EG6",
+    "image_comparison_t8ciRn",
+    "testimonials_8JHr3L",
+    "image_with_text_iLRDCn",
+    "multicolumn_icon_C6634r",
+    "multicolumn_T3qdNY",
+    "video_hero_3RtzVB",
+    "related_products_zdQ6HQ",
+    "collapsible_tabs_Wd4abd",
+    "scrolling_gallery_image_n6qGHE"
+  ]
+}

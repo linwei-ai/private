@@ -1,0 +1,98 @@
+/**
+ * Tarjeta informativa PDP (recogida / mensajes): alineada al diseño de pickup pero estilos propios.
+ */
+.product-info-card {
+  display: block;
+  width: 100%;
+}
+
+.product-info-card__surface {
+  display: flex;
+  align-items: center;
+  gap: 1.4rem 1.6rem;
+  width: 100%;
+  padding: 1.6rem 2rem;
+  border: 0.1rem solid rgba(var(--color-border), var(--color-border-alpha, 1));
+  background-color: rgb(var(--color-background));
+  box-sizing: border-box;
+}
+
+.product-info-card__icon {
+  flex-shrink: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: rgb(var(--color-text-heading));
+  line-height: 0;
+}
+
+.product-info-card__icon .icon {
+  width: 2.8rem;
+  height: 2.8rem;
+}
+
+.product-info-card__body {
+  flex: 1 1 auto;
+  min-width: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 0.35rem;
+  padding-inline-end: 0.4rem;
+}
+
+.product-info-card__title {
+  margin: 0;
+  font-size: calc(var(--font-body-size) * 1px + 1px);
+  font-weight: var(--font-body-bolder-weight, 600);
+  line-height: 1.35;
+  letter-spacing: -0.01em;
+  color: rgb(var(--color-text-heading));
+}
+
+.product-info-card__subtitle {
+  margin: 0;
+  font-size: max(1.3rem, calc(var(--font-body-size) * 1px - 1px));
+  line-height: 1.45;
+  color: rgba(var(--color-foreground), 0.72);
+}
+
+.product-info-card__action {
+  flex-shrink: 0;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 4rem;
+  height: 4rem;
+  margin-inline-start: auto;
+  padding: 0;
+  border: none;
+  border-radius: 50%;
+  cursor: pointer;
+  text-decoration: none;
+  color: rgb(var(--color-text-heading));
+  background-color: color-mix(in srgb, rgb(var(--color-text-heading)) 12%, rgb(var(--color-background)) 88%);
+  transition: background-color 0.2s ease, transform 0.15s ease;
+}
+
+.product-info-card__action:hover {
+  background-color: color-mix(in srgb, rgb(var(--color-text-heading)) 18%, rgb(var(--color-background)) 82%);
+}
+
+.product-info-card__action:focus-visible {
+  outline: 0.2rem solid rgba(var(--color-foreground), 0.25);
+  outline-offset: 0.2rem;
+}
+
+.product-info-card__action .icon {
+  flex-shrink: 0;
+}
+
+@supports not (background-color: color-mix(in srgb, red, blue)) {
+  .product-info-card__action {
+    background-color: rgba(var(--color-foreground), 0.08);
+  }
+
+  .product-info-card__action:hover {
+    background-color: rgba(var(--color-foreground), 0.12);
+  }
+}

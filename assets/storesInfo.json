@@ -1,0 +1,35 @@
+{
+  "defaultCenter": {
+    "lat": 3.4516,
+    "lng": -76.532
+  },
+  "stores": [
+    {
+      "name": "San Pedro",
+      "address": "Cll. 15 # 3 - 68 Esquina, Centro, San Pedro",
+      "department": "Valle del Cauca",
+      "city": "Cali Valle Del Cauca",
+      "phone": "57 317 640 6404",
+      "lat": 3.453163465,
+      "lng": -76.5295090478
+    },
+    {
+      "name": "C. C. Unico 2",
+      "address": "Cra. 3 # 47D - 88 L205 y L203B",
+      "department": "Valle del Cauca",
+      "city": "Cali Valle Del Cauca",
+      "phone": "57 317 640 6404",
+      "lat": 3.465669844,
+      "lng": -76.5010279189
+    },
+    {
+      "name": "Nueva Floresta",
+      "address": "Cll. 50 # 26 M1 - 04",
+      "department": "Valle del Cauca",
+      "city": "Cali Valle Del Cauca",
+      "phone": "57 313 545 8332",
+      "lat": 3.4388,
+      "lng": -76.5009
+    }
+  ]
+}

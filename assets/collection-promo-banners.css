@@ -1,0 +1,79 @@
+/* Collection promo banners — horizontal carousel */
+.collection-promo-banners__slider {
+  overflow: hidden;
+}
+
+/* Flechas: 20px desde el borde izquierdo / derecho */
+.collection-promo-banners__slider .collection-promo-banners__nav.swiper-controls--nav-floating {
+  position: absolute;
+  inset: 0;
+  margin-top: 0 !important;
+  display: flex !important;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0;
+  z-index: 2;
+  pointer-events: none;
+}
+
+.collection-promo-banners__slider .collection-promo-banners__nav .swiper-button {
+  position: absolute !important;
+  top: 50%;
+  --swiper-nav-mt: 0;
+  margin-top: calc(-1 * var(--swiper-navigation-size, 3rem) / 2) !important;
+  inset: auto !important;
+  transform: none !important;
+  pointer-events: auto;
+}
+
+.collection-promo-banners__slider .collection-promo-banners__nav .swiper-button-prev {
+  left: 20px;
+  right: auto;
+}
+
+.collection-promo-banners__slider .collection-promo-banners__nav .swiper-button-next {
+  right: 20px;
+  left: auto;
+}
+
+@media (max-width: 767.98px) {
+  .collection-promo-banners__slider.swiper-show-nav-on-hover .collection-promo-banners__nav .swiper-button {
+    opacity: 1 !important;
+    visibility: visible !important;
+  }
+}
+
+.collection-promo-banners__track {
+  align-items: stretch;
+}
+
+.collection-promo-banners__slide {
+  height: auto;
+  min-height: 0;
+}
+
+.collection-promo-banners__link {
+  position: relative;
+  display: block;
+  width: 100%;
+}
+
+.collection-promo-banners__link picture,
+.collection-promo-banners__link img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.collection-promo-banners__placeholder {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 8rem;
+}
+
+.collection-promo-banners__placeholder .placeholder-svg {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}

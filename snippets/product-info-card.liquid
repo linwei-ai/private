@@ -1,0 +1,45 @@
+{% comment %}
+  Tarjeta informativa PDP: icono tienda + título + subtítulo + acción circular.
+  Accepts: block
+{% endcomment %}
+{{ 'component-product-info-card.css' | asset_url | stylesheet_tag }}
+
+{%- liquid
+  assign card_heading = block.settings.heading
+  assign card_subheading = block.settings.subheading
+  assign card_link = block.settings.link
+-%}
+
+{%- if card_heading != blank or card_subheading != blank -%}
+  <div class="product-info-card">
+    <div class="product-info-card__surface blocks-radius-md">
+      <div class="product-info-card__icon" aria-hidden="true">
+        {%- render 'icon-storefront', size: 'extra-large' -%}
+      </div>
+      <div class="product-info-card__body">
+        {%- if card_heading != blank -%}
+          <p class="product-info-card__title">{{ card_heading | escape }}</p>
+        {%- endif -%}
+        {%- if card_subheading != blank -%}
+          <p class="product-info-card__subtitle">{{ card_subheading | escape }}</p>
+        {%- endif -%}
+      </div>
+      {%- if card_link != blank -%}
+        <a
+          href="{{ card_link }}"
+          class="product-info-card__action"
+          {% if block.settings.link_new_tab %}
+            target="_blank" rel="noopener noreferrer"
+          {% endif %}
+          aria-label="{{ card_heading | default: card_subheading | escape }}"
+        >
+          {% render 'icon-caret-right', size: 'small' %}
+        </a>
+      {%- else -%}
+        <span class="product-info-card__action" aria-hidden="true" tabindex="-1">
+          {% render 'icon-caret-right', size: 'small' %}
+        </span>
+      {%- endif -%}
+    </div>
+  </div>
+{%- endif -%}

@@ -1,0 +1,272 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "breadcrumbs_RzgTi9": {
+      "type": "breadcrumbs",
+      "settings": {
+        "container": "fixed",
+        "text_alignment": "start",
+        "padding_top": 16,
+        "padding_bottom": 20
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "custom_css": [],
+      "settings": {
+        "container": "fixed",
+        "text_alignment": "left",
+        "padding_top": 16,
+        "padding_bottom": 24
+      }
+    },
+    "collapsible_tabs_phAkEE": {
+      "type": "collapsible-tabs",
+      "blocks": {
+        "heading_grWd8w": {
+          "type": "heading",
+          "settings": {
+            "sub_heading": "",
+            "heading": "",
+            "highlight_style": "none",
+            "highlight_font_style": "italic",
+            "highlight_style_color": "",
+            "highlight_text_color": "",
+            "heading_size": "h2"
+          }
+        },
+        "collapsible_item_eFemDY": {
+          "type": "collapsible_item",
+          "settings": {
+            "icon": "none",
+            "heading": "¿QUE PRODUCTOS PUEDO ENCONTRAR EN LA PÁGINA WEB SURTICOSMETICOS?",
+            "content": "<p>En Surticosmeticos siempre pensamos en cuidar y consentir a todos nuestros clientes, por ello contamos con un amplio portafolio en el cual encuentras diversidad de marcas y más de 15.000 referencias de cosméticos de cuidado personal y belleza de la más alta calidad en las categorías de: Maquillaje, Eléctricos, Accesorios, Cuidado Capilar, Corporal, Facial Y uñas.</p>",
+            "custom_liquid": "",
+            "page": "",
+            "open": true,
+            "use_subtext_color": true
+          }
+        },
+        "collapsible_item_RQ3WzW": {
+          "type": "collapsible_item",
+          "settings": {
+            "icon": "none",
+            "heading": "¿COMO HAGO UNA COMPRA EN LA TIENDA VIRTUAL?",
+            "content": "<p>Para hacer una compra en nuestra tienda virtual, simplemente sigue los siguientes pasos:</p><p>-Busca el producto que deseas comprar y agrégalo a tu carrito de compras.</p><p>-Revisa los artículos que se han agregado a tu carrito de compras.</p><p>-Proceda al pago y completa la información necesaria.</p><p>-Espera la confirmación de la compra y el envío.</p>",
+            "custom_liquid": "",
+            "page": "",
+            "open": false,
+            "use_subtext_color": true
+          }
+        },
+        "collapsible_item_aKpRFm": {
+          "type": "collapsible_item",
+          "settings": {
+            "icon": "none",
+            "heading": "¿CUÁLES SON LOS MÉTODOS DE PAGO ACEPTADOS?",
+            "content": "<p>Contamos con diferentes métodos de pago donde puedes cancelar tu pedido mediante:</p><p>-Tarjetas de crédito: American Express, Visa, MasterCard, (icono de todas las tarjetas disponibles)</p><p>-Tarjeta débito: Mediante DaviPlata, PayPal o pagos PSE.</p><p>-Efectivo: Vía Baloto, Efecty y Red Servi.</p><p>-Crédito: Addi</p>",
+            "custom_liquid": "",
+            "page": "",
+            "open": false,
+            "use_subtext_color": true
+          }
+        },
+        "collapsible_item_3c4PkF": {
+          "type": "collapsible_item",
+          "settings": {
+            "icon": "none",
+            "heading": "¿CUÁNTO TIEMPO TARDARÁ MI PEDIDO EN LLEGAR?",
+            "content": "<p>Los tiempos de entrega son calculados por la empresa transportadora dependiendo de los días hábiles de trabajo y la zona del país en la que te encuentres y este puede estar sujeto a cambios imprevistos por diversas situaciones o eventos. Una vez despachado el pedido recibirás un correo electrónico informando el estado de tu pedido y su respectivo número de guía</p>",
+            "custom_liquid": "",
+            "page": "",
+            "open": false,
+            "use_subtext_color": true
+          }
+        },
+        "collapsible_item_weT98j": {
+          "type": "collapsible_item",
+          "settings": {
+            "icon": "none",
+            "heading": "¿CÓMO PUEDO HACER SEGUIMIENTO A MI PEDIDO?",
+            "content": "<p>Podrás realizar el debido seguimiento a tu pedido a través de la página de la transportadora correspondiente esta se encargará de enviarte los datos a través de tu correo electrónico por el cual llegará una guía y el debido enlace para realizar el respectivo seguimiento de tu producto.</p>",
+            "custom_liquid": "",
+            "page": "",
+            "open": false,
+            "use_subtext_color": true
+          }
+        },
+        "collapsible_item_9X34a9": {
+          "type": "collapsible_item",
+          "settings": {
+            "icon": "none",
+            "heading": "¿QUÉ HACER SI LLEGA UN PRODUCTO DIFERENTE AL QUE SOLICITE?",
+            "content": "<p>Puedes comunicarte con nosotros por medio de un correo electrónico informándonos tu caso a la dirección: info@surticosmeticos.com o al whatsapp +57 3007098646.</p>",
+            "custom_liquid": "",
+            "page": "",
+            "open": false,
+            "use_subtext_color": true
+          }
+        },
+        "collapsible_item_a9zr8G": {
+          "type": "collapsible_item",
+          "settings": {
+            "icon": "none",
+            "heading": "¿PUEDO CAMBIAR O CANCELAR MI PEDIDO?",
+            "content": "<p>Después de confirmada la compra no es posible hacer un cambio o cancelación del pedido, si tienes alguna duda comunícate con nosotros mediante nuestros canales de atención al cliente para brindarte más información.</p>",
+            "custom_liquid": "",
+            "page": "",
+            "open": false,
+            "use_subtext_color": true
+          }
+        },
+        "collapsible_item_LyA3Xk": {
+          "type": "collapsible_item",
+          "settings": {
+            "icon": "none",
+            "heading": "¿COMO HACER UN CAMBIO O DEVOLUCIÓN?",
+            "content": "<p>Si deseas cambiar un producto por otro artículo debes solicitar el formulario de cambios y devoluciones dentro de los 15 días hábiles después de recibir tu compra. Recuerda que este será estudiado para su aprobación. Te invitamos a leer nuestra política de cambios y devoluciones.</p>",
+            "custom_liquid": "",
+            "page": "",
+            "open": false,
+            "use_subtext_color": true
+          }
+        },
+        "collapsible_item_wBfwyL": {
+          "type": "collapsible_item",
+          "settings": {
+            "icon": "none",
+            "heading": "¿CÓMO SOLICITAR UNA GARANTÍA?",
+            "content": "<p>Si deseas gestionar una garantía comunícate con nosotros a través de nuestra línea de atención al <a href=\"mailto:info@surticosmeticos.com\"><span style=\"text-decoration:underline\">info@surticosmeticos.com</span></a>, whatsapp +57 3007098646 dentro de los 15 días hábiles después de recibir tu compra. Recuerda que este será estudiado para su aprobación. Te invitamos a leer nuestra política de garantías.</p>",
+            "custom_liquid": "",
+            "page": "",
+            "open": false,
+            "use_subtext_color": true
+          }
+        },
+        "collapsible_item_LTAAtn": {
+          "type": "collapsible_item",
+          "settings": {
+            "icon": "none",
+            "heading": "¿CÓMO COMPRAR AL POR MAYOR?",
+            "content": "<p>¡Nos encanta ayudar a nuestros Soñadores a emprender su propio negocio por eso, en Surticosmeticos encuentras todo lo que Sueñas! Ofrecemos productos acompañados de una excelente asesoría de manera personalizada para que empieces tu propio negocio, ofreciendo precios asequibles con altos niveles de rentabilidad. Solo debes escribirnos al whatsapp +57 3007098646 y te brindaremos toda la información.</p>",
+            "custom_liquid": "",
+            "page": "",
+            "open": false,
+            "use_subtext_color": true
+          }
+        },
+        "collapsible_item_EfFAat": {
+          "type": "collapsible_item",
+          "settings": {
+            "icon": "none",
+            "heading": "¿OFRECEN ENVÍOS INTERNACIONALES?",
+            "content": "<p>Surticosmeticos actualmente solo opera a nivel nacional muy pronto estaremos extendiendo nuestros envíos a nivel internacional.</p>",
+            "custom_liquid": "",
+            "page": "",
+            "open": false,
+            "use_subtext_color": true
+          }
+        },
+        "collapsible_item_reGQfc": {
+          "type": "collapsible_item",
+          "settings": {
+            "icon": "none",
+            "heading": "¿CUALES SON LOS COSTOS DE ENVÍO?",
+            "content": "<p>Los costos de envío dependen de la ciudad del destino y del tamaño del producto.</p>",
+            "custom_liquid": "",
+            "page": "",
+            "open": false,
+            "use_subtext_color": true
+          }
+        },
+        "collapsible_item_3TUAHc": {
+          "type": "collapsible_item",
+          "settings": {
+            "icon": "none",
+            "heading": "¿POR QUÉ MI COMPRA PUEDE SER RECHAZADA?",
+            "content": "<p>No depende de nosotros, es un tema que debes consultar con tu entidad bancaria.</p>",
+            "custom_liquid": "",
+            "page": "",
+            "open": false,
+            "use_subtext_color": true
+          }
+        },
+        "collapsible_item_LCzfgd": {
+          "type": "collapsible_item",
+          "settings": {
+            "icon": "none",
+            "heading": "¿CUAL ES EL HORARIO DE ATENCIÓN?",
+            "content": "<p>En nuestra página web puedes hacer tus compras las 24 horas todos los días de la semana. Para mayor información puedes comunicarte con nosotros mediante la dirección electrónica: info@surticosmeticos.com o al whatsapp +57 3007098646 El horario de atención es de: lunes a sábado de 8:00AM a 5:30PM.</p><p>Nuestras tiendas físicas en la ciudad de Cali están disponibles todos los días de la semana. El horario puede variar según la ubicación.</p><p>Sede Centro: Calle 15 # 3 -68</p><p>Sede CC. Único: Carrera 3 # 47D – 88 Locales 203B y 205</p><p>Sede Nueva Floresta: Calle 50 # 26M1 – 04</p>",
+            "custom_liquid": "",
+            "page": "",
+            "open": false,
+            "use_subtext_color": true
+          }
+        }
+      },
+      "block_order": [
+        "heading_grWd8w",
+        "collapsible_item_eFemDY",
+        "collapsible_item_RQ3WzW",
+        "collapsible_item_aKpRFm",
+        "collapsible_item_3c4PkF",
+        "collapsible_item_weT98j",
+        "collapsible_item_9X34a9",
+        "collapsible_item_a9zr8G",
+        "collapsible_item_LyA3Xk",
+        "collapsible_item_wBfwyL",
+        "collapsible_item_LTAAtn",
+        "collapsible_item_EfFAat",
+        "collapsible_item_reGQfc",
+        "collapsible_item_3TUAHc",
+        "collapsible_item_LCzfgd"
+      ],
+      "custom_css": [],
+      "settings": {
+        "container": "narrow",
+        "color_scheme": "",
+        "header_layout": "vertical",
+        "section_header_alignment": "center",
+        "section_header_alignment_mobile": "inherit",
+        "subheading": "",
+        "heading": "<strong>Preguntas frecuentes</strong>",
+        "highlight_style": "none",
+        "highlight_font_style": "italic",
+        "highlight_style_color": "",
+        "highlight_text_color": "",
+        "heading_size": "h1",
+        "description": "",
+        "text_size": "text-base",
+        "button_label": "",
+        "button_link": "",
+        "button_style": "btn--primary",
+        "button_icon": "none",
+        "column_gap": "small",
+        "row_gap": "inherit",
+        "item_style": "standard",
+        "item_color_scheme": "",
+        "item_heading_font": "heading",
+        "item_heading_size": "h5",
+        "item_icon_size": "extra-large",
+        "padding_top": 60,
+        "padding_bottom": 100,
+        "show_section_divider": false,
+        "divider_width": "fixed"
+      }
+    }
+  },
+  "order": [
+    "breadcrumbs_RzgTi9",
+    "main",
+    "collapsible_tabs_phAkEE"
+  ]
+}

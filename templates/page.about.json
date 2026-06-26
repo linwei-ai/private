@@ -1,0 +1,341 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "container": "fixed",
+        "text_alignment": "center",
+        "padding_top": 16,
+        "padding_bottom": 40
+      }
+    },
+    "image_with_text_overlay_3FrkpM": {
+      "type": "image-with-text-overlay",
+      "blocks": {
+        "subheading_MEEHjQ": {
+          "type": "subheading",
+          "settings": {
+            "subheading": "<em>Sobre Nosotros</em>"
+          }
+        },
+        "heading_W8mPfG": {
+          "type": "heading",
+          "settings": {
+            "heading": "+ Digitales - Enredos",
+            "highlight_style": "none",
+            "highlight_font_style": "italic",
+            "highlight_style_color": "",
+            "highlight_text_color": "",
+            "heading_size": "hd2"
+          }
+        },
+        "text_gdi3R3": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Introducing the latest styles in women's shoes tailored for every occasion taste.</p>",
+            "text_size": "text-base"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_MEEHjQ",
+        "heading_W8mPfG",
+        "text_gdi3R3"
+      ],
+      "custom_css": [
+        ".rich-text {max-width: 46rem; --text-margin-top: 2rem;}",
+        ".rich-text__text p {max-width: 34rem; margin: 0 auto;}"
+      ],
+      "settings": {
+        "container": "full",
+        "desktop_height": "adapt",
+        "overlay_opacity": 30,
+        "enable_parallax": false,
+        "parallax_direction": "vertical",
+        "color_scheme": "",
+        "content_position": "middle-center",
+        "content_alignment": "center",
+        "mobile_height": "adapt",
+        "content_position_mobile": "middle-center-mobile",
+        "content_alignment_mobile": "left",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "enable_preload_image": true
+      }
+    },
+    "rich_text_rnLi7E": {
+      "type": "rich-text",
+      "blocks": {
+        "text_JUHz67": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Somos una plataforma de E-commerce que llega para revolucionar el mundo de la belleza y transformar la experiencia de compra online bajo el pilar de “ h a c e r l o - s i m p l e ”</strong></p>",
+            "text_size": "text-lg",
+            "text_line_limit": "none",
+            "button_style": "btn--underline",
+            "button_icon": "none"
+          }
+        }
+      },
+      "block_order": [
+        "text_JUHz67"
+      ],
+      "custom_css": [
+        ".rich-text {max-width: 88rem; margin: 0 auto; --text-margin-top: 2rem;}"
+      ],
+      "settings": {
+        "container": "fixed",
+        "color_scheme": "",
+        "use_color_scheme_in_container": false,
+        "content_spacing": "standard",
+        "content_alignment": "center",
+        "padding_top": 60,
+        "padding_bottom": 40,
+        "show_section_divider": false,
+        "divider_width": "fixed"
+      }
+    },
+    "image_with_text_eUKGwj": {
+      "type": "image-with-text",
+      "blocks": {
+        "badge_AdmYNg": {
+          "type": "badge",
+          "settings": {
+            "color_scheme": "scheme-2",
+            "text": "breaking down the idea of ethical beautiful -",
+            "position_mobile": "right"
+          }
+        },
+        "subheading_t37PND": {
+          "type": "subheading",
+          "disabled": true,
+          "settings": {
+            "subheading": "<em>Founder / CEO</em>"
+          }
+        },
+        "heading_yrtiRH": {
+          "type": "heading",
+          "settings": {
+            "heading": "Nuestros pilares",
+            "highlight_style": "none",
+            "highlight_font_style": "italic",
+            "highlight_style_color": "",
+            "highlight_text_color": "",
+            "heading_size": "h1"
+          }
+        },
+        "text_DycqGr": {
+          "type": "text",
+          "settings": {
+            "text": "<p>•Somos soñadores por naturaleza: Pero sabemos que la distancia entre los sueños y la realidad son las acciones.</p><p>•El servicio al cliente es nuestra prioridad: Vivimos para servir a los demás.</p><p>•Nuestro ambiente laboral no es negociable: Nos parchamos en equipo, actuamos bajo el respeto y siempre estamos para ayudar al otro.</p><p>•La diversidad nos hace únicos: La belleza es para todos y todas.</p><p>•Somos arriesgados: Lo hacemos en grande o no lo hacemos.</p><p>•Vamos con Toda: Nuestra energía es imparable. No nos detenemos hasta terminar.</p><p>•Somos curiosos e innovadores: Siempre enfocados en la mejora continua, ser creativos y cómo hacerlo diferente.</p>",
+            "subtext_color": true
+          }
+        },
+        "button_9ieVkj": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Get to know Her",
+            "button_link": "",
+            "button_style": "btn--primary",
+            "button_icon": "none"
+          }
+        }
+      },
+      "block_order": [
+        "badge_AdmYNg",
+        "subheading_t37PND",
+        "heading_yrtiRH",
+        "text_DycqGr",
+        "button_9ieVkj"
+      ],
+      "custom_css": [
+        ".image-with-text__content {max-width: 52rem;}"
+      ],
+      "settings": {
+        "container": "fixed",
+        "color_scheme": "",
+        "image": "shopify://shop_images/4587a2e9-30f2-4767-8085-7b98d07c5806___0e0ee07fb9f7c48f25a88a954b968bb6.webp",
+        "image_position": "left",
+        "image_width": 50,
+        "desktop_content_position": "center",
+        "desktop_content_alignment": "left",
+        "mobile_content_alignment": "inherit",
+        "show_section_divider": true,
+        "divider_width": "full",
+        "padding_top": 60,
+        "padding_bottom": 0
+      }
+    },
+    "image_cards_VYgMpz": {
+      "type": "image-cards",
+      "blocks": {
+        "image_card_96Wx8K": {
+          "type": "image_card",
+          "settings": {
+            "color_scheme": "",
+            "image": "shopify://shop_images/e679480a-fa21-47fe-a0e7-523e84e4294a___069fc7e35774bcd21bbfd95ceb3cb126.webp",
+            "image_ratio": "adapt",
+            "image_overlay_opacity": 0,
+            "content_position": "split-top-subheading",
+            "content_alignment": "center",
+            "content_spacing": "medium",
+            "content_gap": "fitted",
+            "card_link": "",
+            "subheading": "",
+            "subheading_style": "",
+            "heading": "",
+            "highlight_style": "none",
+            "highlight_font_style": "italic",
+            "highlight_style_color": "",
+            "highlight_text_color": "",
+            "heading_size": "h3",
+            "heading_size_mobile": "inherit",
+            "heading_size_custom": 18,
+            "description": "",
+            "button_label": "",
+            "button_style": "btn--primary",
+            "button_icon": "none",
+            "show_badge": false,
+            "badge_color_scheme": "",
+            "badge_shape": "circle",
+            "badge_position": "top-right",
+            "badge_subtext": "Save",
+            "badge_text": "99$",
+            "color_scheme_mobile": "",
+            "show_text_below": false,
+            "content_alignment_mobile": "center",
+            "enable_preload_image": false
+          }
+        },
+        "image_card_xPnRPU": {
+          "type": "image_card",
+          "settings": {
+            "color_scheme": "",
+            "image": "shopify://shop_images/824b3e10-0203-4a08-8575-d81f879df0cb___5e607671fa93994861b3778dd6446697.webp",
+            "image_ratio": "adapt",
+            "image_overlay_opacity": 0,
+            "content_position": "split-top-subheading",
+            "content_alignment": "center",
+            "content_spacing": "medium",
+            "content_gap": "fitted",
+            "card_link": "",
+            "subheading": "",
+            "subheading_style": "",
+            "heading": "",
+            "highlight_style": "none",
+            "highlight_font_style": "italic",
+            "highlight_style_color": "",
+            "highlight_text_color": "",
+            "heading_size": "h3",
+            "heading_size_mobile": "inherit",
+            "heading_size_custom": 18,
+            "description": "",
+            "button_label": "",
+            "button_style": "btn--primary",
+            "button_icon": "none",
+            "show_badge": false,
+            "badge_color_scheme": "",
+            "badge_shape": "circle",
+            "badge_position": "top-right",
+            "badge_subtext": "Save",
+            "badge_text": "99$",
+            "color_scheme_mobile": "",
+            "show_text_below": false,
+            "content_alignment_mobile": "center",
+            "enable_preload_image": false
+          }
+        },
+        "image_card_4Km6zw": {
+          "type": "image_card",
+          "settings": {
+            "color_scheme": "",
+            "image": "shopify://shop_images/c44ce5cf-f06c-4d36-bd0f-86aa99dd588a___ef30661c8493c29c64119b65892042dc.webp",
+            "image_ratio": "adapt",
+            "image_overlay_opacity": 0,
+            "content_position": "split-top-subheading",
+            "content_alignment": "center",
+            "content_spacing": "medium",
+            "content_gap": "fitted",
+            "card_link": "",
+            "subheading": "",
+            "subheading_style": "",
+            "heading": "",
+            "highlight_style": "none",
+            "highlight_font_style": "italic",
+            "highlight_style_color": "",
+            "highlight_text_color": "",
+            "heading_size": "h3",
+            "heading_size_mobile": "inherit",
+            "heading_size_custom": 18,
+            "description": "",
+            "button_label": "",
+            "button_style": "btn--primary",
+            "button_icon": "none",
+            "show_badge": false,
+            "badge_color_scheme": "",
+            "badge_shape": "circle",
+            "badge_position": "top-right",
+            "badge_subtext": "Save",
+            "badge_text": "99$",
+            "color_scheme_mobile": "",
+            "show_text_below": false,
+            "content_alignment_mobile": "center",
+            "enable_preload_image": false
+          }
+        }
+      },
+      "block_order": [
+        "image_card_96Wx8K",
+        "image_card_xPnRPU",
+        "image_card_4Km6zw"
+      ],
+      "name": "t:sections.image-cards.name",
+      "settings": {
+        "container": "fixed",
+        "color_scheme": "",
+        "section_header_alignment": "center",
+        "section_header_alignment_mobile": "inherit",
+        "subheading": "",
+        "heading": "",
+        "highlight_style": "none",
+        "highlight_font_style": "italic",
+        "highlight_style_color": "",
+        "highlight_text_color": "",
+        "heading_size": "h1",
+        "description": "",
+        "description_size": "text-sm",
+        "columns_desktop": 3,
+        "column_gap": "medium",
+        "row_gap": "inherit",
+        "enable_slider": false,
+        "content_overflow": true,
+        "navigation_position": "bottom",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "show_progress_bar": false,
+        "padding_top": 50,
+        "padding_bottom": 50,
+        "show_section_divider": false,
+        "divider_width": "fixed"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "image_with_text_overlay_3FrkpM",
+    "rich_text_rnLi7E",
+    "image_with_text_eUKGwj",
+    "image_cards_VYgMpz"
+  ]
+}

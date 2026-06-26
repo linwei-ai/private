@@ -1,0 +1,409 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "breadcrumbs_Gxg9wp": {
+      "type": "breadcrumbs",
+      "settings": {
+        "container": "fixed",
+        "text_alignment": "start",
+        "padding_top": 16,
+        "padding_bottom": 20
+      }
+    },
+    "banner": {
+      "type": "main-collection-banner",
+      "blocks": {
+        "collection_info_zUNyKV": {
+          "type": "collection_info",
+          "settings": {
+            "heading_size": "h1",
+            "heading_tag": "h1",
+            "show_description": true,
+            "padding_top": 0,
+            "padding_bottom": 0
+          }
+        }
+      },
+      "block_order": [
+        "collection_info_zUNyKV"
+      ],
+      "custom_css": [],
+      "settings": {
+        "container": "fixed",
+        "color_scheme": "scheme-1",
+        "text_alignment": "center",
+        "show_collection_image": false,
+        "image_overlay_opacity": 0,
+        "image_position": "top",
+        "image_height": "extra-small",
+        "enable_parallax": false,
+        "parallax_direction": "vertical",
+        "image_height_mobile": "auto",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "custom_content_98p9Xf": {
+      "type": "custom-content",
+      "blocks": {
+        "image_card_ChP6a6": {
+          "type": "image_card",
+          "settings": {
+            "color_scheme": "scheme-inverse",
+            "image_ratio": "adapt",
+            "image_overlay_opacity": 0,
+            "content_position": "bottom-left",
+            "content_alignment": "left",
+            "content_spacing": "extra-small",
+            "content_gap": "fitted",
+            "subheading": "",
+            "subheading_style": "",
+            "heading": "Matte Lipsticks",
+            "highlight_style": "none",
+            "highlight_font_style": "italic",
+            "highlight_style_color": "",
+            "highlight_text_color": "",
+            "heading_size": "h2",
+            "description": "",
+            "button_label": "Shop Now",
+            "button_style": "btn--primary",
+            "button_icon": "none",
+            "show_badge": false,
+            "badge_color_scheme": "scheme-1",
+            "badge_shape": "circle",
+            "badge_position": "top-right",
+            "badge_subtext": "Save",
+            "badge_text": "99$",
+            "color_scheme_mobile": "scheme-inverse",
+            "show_text_below": false,
+            "content_alignment_mobile": "center",
+            "width": "33%",
+            "alignment": "center",
+            "block_custom_class": "",
+            "enable_preload_image": false
+          }
+        },
+        "image_card_gygTAy": {
+          "type": "image_card",
+          "settings": {
+            "color_scheme": "scheme-inverse",
+            "image_ratio": "adapt",
+            "image_overlay_opacity": 0,
+            "content_position": "bottom-left",
+            "content_alignment": "left",
+            "content_spacing": "extra-small",
+            "content_gap": "fitted",
+            "subheading": "",
+            "subheading_style": "",
+            "heading": "Face Creams",
+            "highlight_style": "none",
+            "highlight_font_style": "italic",
+            "highlight_style_color": "",
+            "highlight_text_color": "",
+            "heading_size": "h2",
+            "description": "",
+            "button_label": "Shop Now",
+            "button_style": "btn--primary",
+            "button_icon": "none",
+            "show_badge": false,
+            "badge_color_scheme": "scheme-1",
+            "badge_shape": "circle",
+            "badge_position": "top-right",
+            "badge_subtext": "Save",
+            "badge_text": "99$",
+            "color_scheme_mobile": "scheme-inverse",
+            "show_text_below": false,
+            "content_alignment_mobile": "center",
+            "width": "33%",
+            "alignment": "center",
+            "block_custom_class": "",
+            "enable_preload_image": false
+          }
+        },
+        "image_card_Lq7GhL": {
+          "type": "image_card",
+          "settings": {
+            "color_scheme": "scheme-inverse",
+            "image_ratio": "adapt",
+            "image_overlay_opacity": 0,
+            "content_position": "bottom-left",
+            "content_alignment": "left",
+            "content_spacing": "extra-small",
+            "content_gap": "fitted",
+            "subheading": "",
+            "subheading_style": "",
+            "heading": "Body Serums",
+            "highlight_style": "none",
+            "highlight_font_style": "italic",
+            "highlight_style_color": "",
+            "highlight_text_color": "",
+            "heading_size": "h2",
+            "description": "",
+            "button_label": "Shop Now",
+            "button_style": "btn--primary",
+            "button_icon": "none",
+            "show_badge": false,
+            "badge_color_scheme": "scheme-1",
+            "badge_shape": "circle",
+            "badge_position": "top-right",
+            "badge_subtext": "Save",
+            "badge_text": "99$",
+            "color_scheme_mobile": "scheme-inverse",
+            "show_text_below": false,
+            "content_alignment_mobile": "center",
+            "width": "33%",
+            "alignment": "center",
+            "block_custom_class": "",
+            "enable_preload_image": false
+          }
+        }
+      },
+      "block_order": [
+        "image_card_ChP6a6",
+        "image_card_gygTAy",
+        "image_card_Lq7GhL"
+      ],
+      "custom_css": [
+        ".card-media .rich-text {--child-margin-top: 1.6rem;}"
+      ],
+      "settings": {
+        "container": "fixed",
+        "color_scheme": "",
+        "enable_sticky_column": false,
+        "section_header_alignment": "left",
+        "section_header_alignment_mobile": "inherit",
+        "subheading": "",
+        "heading": "",
+        "highlight_style": "none",
+        "highlight_font_style": "italic",
+        "highlight_style_color": "",
+        "highlight_text_color": "",
+        "heading_size": "h1",
+        "description": "",
+        "text_size": "text-base",
+        "column_gap": "medium",
+        "row_gap": "large",
+        "swipe_on_mobile": true,
+        "columns_mobile": "1",
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "show_section_divider": false,
+        "divider_width": "fixed"
+      }
+    },
+    "product-grid": {
+      "type": "main-collection-product-grid",
+      "blocks": {
+        "image_card_mwkyJy": {
+          "type": "image_card",
+          "settings": {
+            "color_scheme": "scheme-inverse",
+            "image_position": 1,
+            "image_ratio": "adapt",
+            "image_overlay_opacity": 0,
+            "content_position": "split-bottom-button",
+            "content_alignment": "left",
+            "content_spacing": "extra-small",
+            "content_gap": "fitted",
+            "subheading": "<em>Big Saving</em>",
+            "subheading_style": "",
+            "heading": "On Holiday Sets",
+            "highlight_style": "none",
+            "highlight_font_style": "italic",
+            "highlight_style_color": "",
+            "highlight_text_color": "",
+            "heading_size": "h3",
+            "description": "",
+            "text_size": "text-base",
+            "button_label": "Explore Now",
+            "button_style": "btn--plain",
+            "button_icon": "caret-right",
+            "enable_preload_image": false
+          }
+        }
+      },
+      "block_order": [
+        "image_card_mwkyJy"
+      ],
+      "custom_css": [],
+      "settings": {
+        "container": "fixed",
+        "color_scheme": "scheme-1",
+        "products_per_page": 20,
+        "columns_desktop": 4,
+        "column_gap": "2xs",
+        "row_gap": "inherit",
+        "pagination": "number",
+        "enable_filtering": true,
+        "enable_color_swatch": true,
+        "filter_type": "vertical",
+        "expand_filter_groups": "Availability, Price, Color, Size, Category, Product Type",
+        "enable_sorting": true,
+        "enable_layout_switching": true,
+        "columns_mobile": "2",
+        "padding_top": 28,
+        "padding_bottom": 0,
+        "show_section_divider": true,
+        "divider_width": "fixed"
+      }
+    },
+    "rich_text_dgPtDV": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_kVf6qj": {
+          "type": "heading",
+          "settings": {
+            "heading": "About Ceramide",
+            "highlight_style": "none",
+            "highlight_font_style": "italic",
+            "highlight_style_color": "",
+            "highlight_text_color": "",
+            "heading_size": "h3"
+          }
+        },
+        "text_xtLQE8": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Furniture goes beyond mere function; it expresses personal taste and lifestyle preferences. Whether refreshing your living space or selecting new additions, recognizing the array of furniture styles and materials can guide you toward the perfect choice. From classic wood and metal to contemporary acrylic and glass, each material offers distinct advantages, from strength and resilience to modern versatility.</p><p>Choosing furniture involves more than aesthetics; it’s about setting a cohesive atmosphere that balances beauty, practicality, and durability. While many favor minimalist designs for their clean lines, there's always appeal in the rich detail of traditional pieces like Victorian or Art Deco. This overview provides insights into different styles and materials, helping you find the furniture that harmonizes with both your functional needs and personal style.</p><p>Choosing furniture involves more than aesthetics; it’s about setting a cohesive atmosphere that balances beauty, practicality, and durability. While many favor minimalist designs for their clean lines, there's always appeal in the rich detail of traditional pieces like Victorian or Art Deco. This overview provides insights into different styles and materials, helping you find the furniture that harmonizes with both your functional needs and personal style.</p>",
+            "text_size": "text-base",
+            "text_line_limit": "5-lines",
+            "button_style": "btn--underline",
+            "button_icon": "none"
+          }
+        }
+      },
+      "block_order": [
+        "heading_kVf6qj",
+        "text_xtLQE8"
+      ],
+      "custom_css": [],
+      "settings": {
+        "container": "fixed",
+        "color_scheme": "scheme-10",
+        "use_color_scheme_in_container": true,
+        "content_spacing": "standard",
+        "content_alignment": "left",
+        "padding_top": 60,
+        "padding_bottom": 0,
+        "show_section_divider": false,
+        "divider_width": "fixed"
+      }
+    },
+    "buttons_with_icon_XJn7cx": {
+      "type": "buttons-with-icon",
+      "blocks": {
+        "button_item_xVkaBU": {
+          "type": "button_item",
+          "settings": {
+            "button_label": "Lip Scrubs",
+            "icon": "check"
+          }
+        },
+        "button_item_UNAajR": {
+          "type": "button_item",
+          "settings": {
+            "button_label": "Matte Lipsticks",
+            "icon": "check"
+          }
+        },
+        "button_item_LHei9W": {
+          "type": "button_item",
+          "settings": {
+            "button_label": "Foundations",
+            "icon": "check"
+          }
+        },
+        "button_item_tccr3T": {
+          "type": "button_item",
+          "settings": {
+            "button_label": "Sensitive Toner",
+            "icon": "check"
+          }
+        },
+        "button_item_jkRqNX": {
+          "type": "button_item",
+          "settings": {
+            "button_label": "Makeup Remove",
+            "icon": "check"
+          }
+        },
+        "button_item_Hm4ygB": {
+          "type": "button_item",
+          "settings": {
+            "button_label": "Makeup Tools",
+            "icon": "check"
+          }
+        },
+        "button_item_FCEVdB": {
+          "type": "button_item",
+          "settings": {
+            "button_label": "Hydrating Creams",
+            "icon": "check"
+          }
+        },
+        "button_item_8PEzWz": {
+          "type": "button_item",
+          "settings": {
+            "button_label": "Lip Scrubs",
+            "icon": "check"
+          }
+        },
+        "button_item_7jqcBX": {
+          "type": "button_item",
+          "settings": {
+            "button_label": "Foundations",
+            "icon": "check"
+          }
+        }
+      },
+      "block_order": [
+        "button_item_xVkaBU",
+        "button_item_UNAajR",
+        "button_item_LHei9W",
+        "button_item_tccr3T",
+        "button_item_jkRqNX",
+        "button_item_Hm4ygB",
+        "button_item_FCEVdB",
+        "button_item_8PEzWz",
+        "button_item_7jqcBX"
+      ],
+      "settings": {
+        "container": "fixed",
+        "color_scheme": "",
+        "section_header_alignment": "left",
+        "section_header_alignment_mobile": "inherit",
+        "subheading": "",
+        "heading": "Popular Search",
+        "highlight_style": "none",
+        "highlight_font_style": "italic",
+        "highlight_style_color": "",
+        "highlight_text_color": "",
+        "heading_size": "h2",
+        "item_alignment": "left",
+        "item_button_style": "btn--icon",
+        "enable_slider": true,
+        "swipe_on_mobile": true,
+        "show_section_divider": false,
+        "divider_width": "fixed",
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    }
+  },
+  "order": [
+    "breadcrumbs_Gxg9wp",
+    "banner",
+    "custom_content_98p9Xf",
+    "product-grid",
+    "rich_text_dgPtDV",
+    "buttons_with_icon_XJn7cx"
+  ]
+}
