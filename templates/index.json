@@ -39,7 +39,7 @@
             "heading_size_custom": 18,
             "text": "",
             "text_size": "text-base",
-            "button_label": "Button label",
+            "button_label": "",
             "button_style": "btn--primary",
             "button_icon": "none",
             "button_size": "btn--medium",
