@@ -423,14 +423,16 @@
           "type": "featured_collection",
           "settings": {
             "collection": "",
-            "title": "Sunscreen"
+            "image": "shopify://shop_images/doubao_image_3_5_f1beb908-ab0c-4ec7-8782-f5327ebcfd9c.png",
+            "title": "Microfiber sports towel"
           }
         },
         "featured_collection_BqQqhK": {
           "type": "featured_collection",
           "settings": {
             "collection": "",
-            "title": "Hand Cream"
+            "image": "shopify://shop_images/doubao_image_5_11.png",
+            "title": "paper towel holder"
           }
         },
         "featured_collection_rtQF3c": {
