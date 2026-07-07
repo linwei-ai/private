@@ -51,6 +51,7 @@
           "type": "banner-card",
           "settings": {
             "color_scheme": "",
+            "image": "shopify://shop_images/doubao_image_21_1.png",
             "image_overlay_opacity": 0,
             "column_span": 2,
             "row_span": 1,
@@ -63,7 +64,7 @@
             "card_link": "",
             "subheading": "",
             "subheading_style": "",
-            "heading": "Image card",
+            "heading": "",
             "highlight_style": "none",
             "highlight_font_style": "italic",
             "highlight_style_color": "",
