@@ -105,6 +105,7 @@
           "type": "featured_collection",
           "settings": {
             "collection": "",
+            "image": "shopify://shop_images/O1CN01KMxmi523KbNlke7EC__2215448967237-0-cib_jpg.webp",
             "title": "Sale Items"
           }
         },
@@ -112,6 +113,7 @@
           "type": "featured_collection",
           "settings": {
             "collection": "",
+            "image": "shopify://shop_images/doubao_image_3_6.png",
             "title": "Best Sellers"
           }
         },
@@ -119,6 +121,7 @@
           "type": "featured_collection",
           "settings": {
             "collection": "",
+            "image": "shopify://shop_images/doubao_image_7_9.png",
             "title": "Gift Sets"
           }
         },
@@ -126,27 +129,15 @@
           "type": "featured_collection",
           "settings": {
             "collection": "",
+            "image": "shopify://shop_images/O1CN01Kppwbc2Fk2rL0cI9S__3221048917-0-cib.jpg",
             "title": "New Arrivals"
-          }
-        },
-        "featured_collection_jMA9xm": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "",
-            "title": "Skincare"
-          }
-        },
-        "featured_collection_J6hxH9": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "",
-            "title": "Makeup"
           }
         },
         "featured_collection_HwzPfD": {
           "type": "featured_collection",
           "settings": {
             "collection": "",
+            "image": "shopify://shop_images/doubao_image_22.png",
             "title": "Hair"
           }
         },
@@ -154,6 +145,7 @@
           "type": "featured_collection",
           "settings": {
             "collection": "",
+            "image": "shopify://shop_images/2_730dace1-261f-4d34-8765-cbc4cd9a9154.jpg",
             "title": "Brands"
           }
         },
@@ -161,14 +153,8 @@
           "type": "featured_collection",
           "settings": {
             "collection": "",
+            "image": "shopify://shop_images/doubao_image_4_14.png",
             "title": "Body"
-          }
-        },
-        "featured_collection_NkFYeg": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "",
-            "title": "Sunscreen"
           }
         },
         "featured_collection_eBphH3": {
@@ -191,12 +177,9 @@
         "featured_collection_gxdACj",
         "featured_collection_jQXtir",
         "featured_collection_4H9LzM",
-        "featured_collection_jMA9xm",
-        "featured_collection_J6hxH9",
         "featured_collection_HwzPfD",
         "featured_collection_GW3kAL",
         "featured_collection_J6V8fx",
-        "featured_collection_NkFYeg",
         "featured_collection_eBphH3",
         "featured_collection_mFCdUY"
       ],
@@ -293,48 +276,6 @@
         "padding_top": 28,
         "padding_bottom": 0,
         "show_section_divider": true,
-        "divider_width": "fixed"
-      }
-    },
-    "rich_text_dgPtDV": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_kVf6qj": {
-          "type": "heading",
-          "settings": {
-            "heading": "About Ceramide",
-            "highlight_style": "none",
-            "highlight_font_style": "italic",
-            "highlight_style_color": "",
-            "highlight_text_color": "",
-            "heading_size": "h3"
-          }
-        },
-        "text_xtLQE8": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Furniture goes beyond mere function; it expresses personal taste and lifestyle preferences. Whether refreshing your living space or selecting new additions, recognizing the array of furniture styles and materials can guide you toward the perfect choice. From classic wood and metal to contemporary acrylic and glass, each material offers distinct advantages, from strength and resilience to modern versatility.</p><p>Choosing furniture involves more than aesthetics; it’s about setting a cohesive atmosphere that balances beauty, practicality, and durability. While many favor minimalist designs for their clean lines, there's always appeal in the rich detail of traditional pieces like Victorian or Art Deco. This overview provides insights into different styles and materials, helping you find the furniture that harmonizes with both your functional needs and personal style.</p><p>Choosing furniture involves more than aesthetics; it’s about setting a cohesive atmosphere that balances beauty, practicality, and durability. While many favor minimalist designs for their clean lines, there's always appeal in the rich detail of traditional pieces like Victorian or Art Deco. This overview provides insights into different styles and materials, helping you find the furniture that harmonizes with both your functional needs and personal style.</p>",
-            "text_size": "text-base",
-            "text_line_limit": "5-lines",
-            "button_style": "btn--underline",
-            "button_icon": "none"
-          }
-        }
-      },
-      "block_order": [
-        "heading_kVf6qj",
-        "text_xtLQE8"
-      ],
-      "custom_css": [],
-      "settings": {
-        "container": "fixed",
-        "color_scheme": "scheme-1",
-        "use_color_scheme_in_container": true,
-        "content_spacing": "standard",
-        "content_alignment": "left",
-        "padding_top": 0,
-        "padding_bottom": 0,
-        "show_section_divider": false,
         "divider_width": "fixed"
       }
     },
@@ -447,6 +388,48 @@
         "divider_width": "fixed",
         "padding_top": 60,
         "padding_bottom": 60
+      }
+    },
+    "rich_text_dgPtDV": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_kVf6qj": {
+          "type": "heading",
+          "settings": {
+            "heading": "About Ceramide",
+            "highlight_style": "none",
+            "highlight_font_style": "italic",
+            "highlight_style_color": "",
+            "highlight_text_color": "",
+            "heading_size": "h3"
+          }
+        },
+        "text_xtLQE8": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Furniture goes beyond mere function; it expresses personal taste and lifestyle preferences. Whether refreshing your living space or selecting new additions, recognizing the array of furniture styles and materials can guide you toward the perfect choice. From classic wood and metal to contemporary acrylic and glass, each material offers distinct advantages, from strength and resilience to modern versatility.</p><p>Choosing furniture involves more than aesthetics; it’s about setting a cohesive atmosphere that balances beauty, practicality, and durability. While many favor minimalist designs for their clean lines, there's always appeal in the rich detail of traditional pieces like Victorian or Art Deco. This overview provides insights into different styles and materials, helping you find the furniture that harmonizes with both your functional needs and personal style.</p><p>Choosing furniture involves more than aesthetics; it’s about setting a cohesive atmosphere that balances beauty, practicality, and durability. While many favor minimalist designs for their clean lines, there's always appeal in the rich detail of traditional pieces like Victorian or Art Deco. This overview provides insights into different styles and materials, helping you find the furniture that harmonizes with both your functional needs and personal style.</p>",
+            "text_size": "text-base",
+            "text_line_limit": "5-lines",
+            "button_style": "btn--underline",
+            "button_icon": "none"
+          }
+        }
+      },
+      "block_order": [
+        "heading_kVf6qj",
+        "text_xtLQE8"
+      ],
+      "custom_css": [],
+      "settings": {
+        "container": "fixed",
+        "color_scheme": "scheme-1",
+        "use_color_scheme_in_container": true,
+        "content_spacing": "standard",
+        "content_alignment": "left",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "show_section_divider": false,
+        "divider_width": "fixed"
       }
     }
   },
