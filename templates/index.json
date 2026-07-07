@@ -439,7 +439,8 @@
           "type": "featured_collection",
           "settings": {
             "collection": "",
-            "title": "Makeup"
+            "image": "shopify://shop_images/doubao_image_5_15.png",
+            "title": "Oil spray bottle"
           }
         },
         "featured_collection_jHqfhg": {
