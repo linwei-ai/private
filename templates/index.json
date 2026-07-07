@@ -450,7 +450,7 @@
         "description": "",
         "text_size": "text-base",
         "button_label": "Shop Trending Now",
-        "button_link": "",
+        "button_link": "shopify://collections/frontpage",
         "button_style": "btn--plain",
         "button_icon": "caret-right",
         "card_color_scheme": "scheme-10",
