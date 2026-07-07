@@ -161,6 +161,7 @@
           "type": "featured_collection",
           "settings": {
             "collection": "",
+            "image": "shopify://shop_images/doubao_image_5_12.png",
             "title": "Gift Sets"
           }
         },
@@ -168,6 +169,7 @@
           "type": "featured_collection",
           "settings": {
             "collection": "",
+            "image": "shopify://shop_images/O1CN01z3GCxc21tI8VKYYGN__2219503197042-0-cib.jpg",
             "title": "New Arrivals"
           }
         }
