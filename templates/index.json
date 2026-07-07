@@ -447,7 +447,8 @@
           "type": "featured_collection",
           "settings": {
             "collection": "",
-            "title": "Essentials"
+            "image": "shopify://shop_images/doubao_image_1_8.png",
+            "title": "Back Scrub Board"
           }
         }
       },
