@@ -367,7 +367,7 @@
         "description": "",
         "text_size": "text-sm",
         "button_label": "Shop All Brands",
-        "button_link": "",
+        "button_link": "shopify://collections/frontpage",
         "button_style": "btn--plain",
         "button_icon": "caret-right",
         "image_padding": "small",
