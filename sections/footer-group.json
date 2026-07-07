@@ -18,7 +18,6 @@
           "type": "column",
           "settings": {
             "icon": "chat",
-            "image": "shopify://shop_images/dif-1___f9045ed4c02e23ebb838174b17888eb5.svg",
             "max_width": 28,
             "max_width_mb": 28,
             "title": "Encuéntralo Fácil",
@@ -40,7 +39,6 @@
           "type": "column",
           "settings": {
             "icon": "phone",
-            "image": "shopify://shop_images/dif-2___503b80b838f6c3553112adc7a3a075b1.svg",
             "max_width": 28,
             "max_width_mb": 28,
             "title": "Despachos Rápidos",
@@ -62,7 +60,6 @@
           "type": "column",
           "settings": {
             "icon": "paperplane",
-            "image": "shopify://shop_images/dif-3___b419621a81cbebefca146508f6739e46.svg",
             "max_width": 28,
             "max_width_mb": 28,
             "title": "Envíos Baratos",
@@ -84,7 +81,6 @@
           "type": "column",
           "settings": {
             "icon": "map-pin",
-            "image": "shopify://shop_images/dif-4___6863aafa6c31fa0d2662bc4a63d9d247.svg",
             "max_width": 32,
             "max_width_mb": 32,
             "title": "Cambios Sin Complicaciones",
@@ -157,7 +153,9 @@
             "block_width": 35,
             "heading": "",
             "heading_size": "h3",
-            "newsletter_description": "<p>¡Siempre tenemos sorpresas! Déjanos tu e-mail y conócelas.</p>",
+            "newsletter_description": "<p>We always have surprises! Leave us your email to find out what they are.<br/></p>",
+            "newsletter_image_width_desktop": 320,
+            "newsletter_image_width_mobile": 220,
             "newsletter_term": "<p>Acepto el <a href=\"/policies/privacy-policy\" title=\"Privacy Policy\">tratamiento de datos personales</a></p>",
             "newsletter_text_alignment": "left",
             "form_width": 465,
@@ -183,7 +181,7 @@
             "block_width": 20,
             "heading": "Términos y condiciones",
             "heading_size": "h6",
-            "menu": "pol-ticas",
+            "menu": "",
             "open_default": false,
             "show_divider": false
           }
@@ -194,7 +192,7 @@
             "block_width": 20,
             "heading": "Atención al cliente",
             "heading_size": "h6",
-            "menu": "atenci-n-al-cliente",
+            "menu": "",
             "open_default": false,
             "show_divider": false
           }
