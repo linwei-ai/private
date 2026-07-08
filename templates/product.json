@@ -120,8 +120,8 @@
         "product_info_card_store": {
           "type": "product_info_card",
           "settings": {
-            "heading": "Recogida en tienda",
-            "subheading": "Usualmente listo en 24 horas",
+            "heading": "In-store pickup",
+            "subheading": "Usually ready in 24 hours",
             "link": "",
             "link_new_tab": false
           }
