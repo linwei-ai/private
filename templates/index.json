@@ -138,8 +138,8 @@
         "heading_size": "h2",
         "description": "",
         "description_size": "text-base",
-        "button_label": "",
-        "button_link": "shopify://collections/frontpage",
+        "button_label": "折叠水壶",
+        "button_link": "shopify://products/foldable-silicone-travel-water-bottle",
         "button_style": "btn--primary",
         "button_icon": "none",
         "columns": 6,
@@ -157,6 +157,7 @@
       "blocks": {
         "featured_collection_L9N3Tg": {
           "type": "featured_collection",
+          "disabled": true,
           "settings": {
             "collection": "",
             "image": "shopify://shop_images/O1CN01bbZIgm1ahqiKJ1KnA__2218147493362-0-cib_jpg.webp",
@@ -218,6 +219,14 @@
             "image": "shopify://shop_images/doubao_image_1_12.png",
             "title": "New Arrivals"
           }
+        },
+        "featured_collection_6MnxGi": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "",
+            "image": "shopify://shop_images/doubao_image_1_12.png",
+            "title": "New Arrivals"
+          }
         }
       },
       "block_order": [
@@ -228,7 +237,8 @@
         "featured_collection_HwzPfD",
         "featured_collection_J6V8fx",
         "featured_collection_eBphH3",
-        "featured_collection_mFCdUY"
+        "featured_collection_mFCdUY",
+        "featured_collection_6MnxGi"
       ],
       "custom_css": [],
       "settings": {
