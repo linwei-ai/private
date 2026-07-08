@@ -174,7 +174,7 @@
     "product_description": "In diesem Bereich werden die Details Ihres Produkts beschrieben. Informieren Sie Ihre Kunden über das Aussehen, die Haptik und den Stil Ihres Produkts. Fügen Sie Details zu Farbe, verwendeten Materialien, Größe und Herstellungsort hinzu.",
     "collection_title": "Name der Sammlung",
     "collection_description": "Hier finden Sie eine Beschreibung der Sammlung, die Einzelheiten zur Sammlung enthält.",
-    "no_script_alert":"Bitte aktivieren Sie JavaScript, um diese Funktion zu verwenden."
+    "no_script_alert": "Bitte aktivieren Sie JavaScript, um diese Funktion zu verwenden."
   },
   "products": {
     "product": {
@@ -185,7 +185,7 @@
       "choose_options": "Wählen Sie Optionen",
       "choose_options_short": "Sicht",
       "quick_view": "Schnellansicht",
-      "quick_view_title":"Wählen Sie Ihre Option",
+      "quick_view_title": "Wählen Sie Ihre Option",
       "shop": "Geschäft",
       "view_product_list": "Produktliste ansehen",
       "description": "Beschreibung",
@@ -310,7 +310,7 @@
       "continue_shopping": "Weiter einkaufen",
       "no_results": "Keine Produkte entsprechen diesen Filtern.",
       "use_fewer_filters": "Verwenden Sie weniger Filter oder",
-      "items":"Produkte"
+      "items": "Produkte"
     }
   },
   "templates": {
@@ -581,6 +581,51 @@
       "max_characters": "{{ max_chars }} Zeichen max",
       "send_on": "JJJJ-MM-TT",
       "send_on_label": "Senden an (optional)"
+    }
+  },
+  "pagefly": {
+    "products": {
+      "product": {
+        "regular_price": "Regular price",
+        "sold_out": "Sold out",
+        "unavailable": "Unavailable",
+        "on_sale": "Sale",
+        "quantity": "Quantity",
+        "add_to_cart": "Add to cart",
+        "back_to_collection": "Back to {{ title }}",
+        "view_details": "View details"
+      }
+    },
+    "article": {
+      "tags": "Tags:",
+      "all_topics": "All topics",
+      "by_author": "by {{ author }}",
+      "posted_in": "Posted in",
+      "read_more": "Read more",
+      "back_to_blog": "Back to {{ title }}"
+    },
+    "comments": {
+      "title": "Leave a comment",
+      "name": "Name",
+      "email": "Email",
+      "message": "Message",
+      "post": "Post comment",
+      "moderated": "Please note, comments must be approved before they are published",
+      "success_moderated": "Your comment was posted successfully. We will publish it in a little while, as our blog is moderated.",
+      "success": "Your comment was posted successfully! Thank you!",
+      "comments_with_count": {
+        "one": "{{ count }} comment",
+        "other": "{{ count }} comments"
+      }
+    },
+    "password_page": {
+      "login_form_message": "Enter store using password:",
+      "login_form_password_label": "Password",
+      "login_form_password_placeholder": "Your password",
+      "login_form_submit": "Enter",
+      "signup_form_email_label": "Email",
+      "signup_form_success": "We will send you an email right before we open!",
+      "password_link": "Enter using password"
     }
   }
 }

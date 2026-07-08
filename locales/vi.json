@@ -174,7 +174,7 @@
     "product_description": "Khu vực này được sử dụng để mô tả chi tiết sản phẩm của bạn. Cho khách hàng biết về giao diện, cảm nhận và phong cách của sản phẩm. Thêm chi tiết về màu sắc, vật liệu được sử dụng, kích thước và nơi sản xuất.",
     "collection_title": "Tên bộ sưu tập",
     "collection_description": "Mô tả của bộ sưu tập ở đây cung cấp thông tin chi tiết về bộ sưu tập.",
-    "no_script_alert":"Vui lòng cho phép JavaScript sử dụng tính năng này."
+    "no_script_alert": "Vui lòng cho phép JavaScript sử dụng tính năng này."
   },
   "products": {
     "product": {
@@ -185,7 +185,7 @@
       "choose_options": "Chọn tùy chọn",
       "choose_options_short": "Xem",
       "quick_view": "Xem nhanh",
-      "quick_view_title":"Chọn tùy chọn của bạn",
+      "quick_view_title": "Chọn tùy chọn của bạn",
       "shop": "Cửa hàng",
       "view_product_list": "Xem danh sách sản phẩm",
       "description": "Sự miêu tả",
@@ -276,7 +276,7 @@
       "alert_message": "Bạn chỉ có thể thêm tối đa {{ maximum }} sản phẩm để so sánh.",
       "modal_title": "So sánh sản phẩm",
       "remove": "Di dời",
-      "toggle_compare_list":"Chuyển đổi danh sách so sánh"
+      "toggle_compare_list": "Chuyển đổi danh sách so sánh"
     },
     "facets": {
       "filter_and_operator_subtitle": "Phù hợp với tất cả",
@@ -310,7 +310,7 @@
       "continue_shopping": "Tiếp tục mua sắm",
       "no_results": "Không có sản phẩm nào phù hợp với các bộ lọc đó.",
       "use_fewer_filters": "Sử dụng ít bộ lọc hơn hoặc",
-      "items":"Sản phẩm"
+      "items": "Sản phẩm"
     }
   },
   "templates": {
@@ -581,6 +581,51 @@
       "max_characters": "Tối đa {{ max_chars }} ký tự",
       "send_on": "YYYY-MM-DD",
       "send_on_label": "Gửi tiếp (tùy chọn)"
+    }
+  },
+  "pagefly": {
+    "products": {
+      "product": {
+        "regular_price": "Regular price",
+        "sold_out": "Sold out",
+        "unavailable": "Unavailable",
+        "on_sale": "Sale",
+        "quantity": "Quantity",
+        "add_to_cart": "Add to cart",
+        "back_to_collection": "Back to {{ title }}",
+        "view_details": "View details"
+      }
+    },
+    "article": {
+      "tags": "Tags:",
+      "all_topics": "All topics",
+      "by_author": "by {{ author }}",
+      "posted_in": "Posted in",
+      "read_more": "Read more",
+      "back_to_blog": "Back to {{ title }}"
+    },
+    "comments": {
+      "title": "Leave a comment",
+      "name": "Name",
+      "email": "Email",
+      "message": "Message",
+      "post": "Post comment",
+      "moderated": "Please note, comments must be approved before they are published",
+      "success_moderated": "Your comment was posted successfully. We will publish it in a little while, as our blog is moderated.",
+      "success": "Your comment was posted successfully! Thank you!",
+      "comments_with_count": {
+        "one": "{{ count }} comment",
+        "other": "{{ count }} comments"
+      }
+    },
+    "password_page": {
+      "login_form_message": "Enter store using password:",
+      "login_form_password_label": "Password",
+      "login_form_password_placeholder": "Your password",
+      "login_form_submit": "Enter",
+      "signup_form_email_label": "Email",
+      "signup_form_success": "We will send you an email right before we open!",
+      "password_link": "Enter using password"
     }
   }
 }
