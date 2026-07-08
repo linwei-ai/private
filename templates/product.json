@@ -160,7 +160,7 @@
             "heading": "Details",
             "heading_size": "h4",
             "icon": "none",
-            "content": "<p>Our cosmetic products are crafted with a blend of nourishing and effective ingredients designed to enhance your beauty and care for your skin. Key components include:</p><ul><li><strong>Aloe Vera Extract:</strong> Known for its soothing and moisturizing properties, it helps to hydrate the skin and reduce irritation.</li><li><strong>Shea Butter:</strong> Rich in vitamins and fatty acids, shea butter provides deep nourishment and creates a protective barrier on the skin.</li><li><strong>Hyaluronic Acid:</strong> A powerful humectant that attracts and retains moisture, keeping the skin plump and hydrated.</li><li><strong>Vitamin E:</strong> An antioxidant that helps to protect the skin from environmental stressors and promotes a healthy glow.</li><li><strong>Natural Oils (e.g., Jojoba Oil, Argan Oil):</strong> These oils are rich in essential fatty acids and vitamins, offering hydration and improving skin texture.</li></ul><p>Each ingredient is carefully selected to ensure our products are effective, safe, and suitable for a variety of skin types.</p>",
+            "content": "<p>Our home products are thoughtfully designed with practical, reliable, and everyday-friendly materials to make your living space cleaner, cozier, and easier to manage. Key features include:</p><p><strong>Durable Materials:</strong> Built with quality materials for long-lasting daily use around the home.</p><p><strong>Easy-to-Use Design:</strong> Simple, practical functions that help save time and make everyday tasks easier.</p><p><strong>Space-Saving Structure:</strong> Compact and organized designs that help keep your home neat without taking up unnecessary space.</p><p><strong>Family-Friendly Use:</strong> Suitable for daily household needs, from cleaning and storage to kitchen, bathroom, and living room essentials.</p><p><strong>Modern Home Style:</strong> Clean, simple designs that blend naturally with different home décor styles.</p><p>Each product is carefully selected to be practical, reliable, and suitable for a wide range of home needs.</p>",
             "page": "",
             "default_open": false,
             "show_below_product_media": true
@@ -232,7 +232,7 @@
         "section_header_alignment": "center",
         "section_header_alignment_mobile": "inherit",
         "subheading": "",
-        "heading": "Te puede interesar",
+        "heading": "You might be interested in",
         "highlight_style": "none",
         "highlight_font_style": "italic",
         "highlight_style_color": "",
