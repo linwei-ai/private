@@ -139,7 +139,7 @@
         "description": "",
         "description_size": "text-base",
         "button_label": "",
-        "button_link": "",
+        "button_link": "shopify://collections/frontpage",
         "button_style": "btn--primary",
         "button_icon": "none",
         "columns": 6,
